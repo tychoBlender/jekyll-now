@@ -11,8 +11,6 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
@@ -36,6 +34,14 @@
 
     <div id="main" role="main" class="container">
       {{ content }}
+      
+	<ul>
+	{% for post in site.posts %}
+	<li>
+	<a href="{{ post.url }}">{{ post.title }}</a>
+	</li>
+	{% endfor %}
+	</ul>
     </div>
 
     <div class="wrapper-footer">
