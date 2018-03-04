@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Posting Up
+published: true
 ---
 
 # making Posts
