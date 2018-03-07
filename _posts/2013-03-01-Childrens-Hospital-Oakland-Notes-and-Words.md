@@ -7,7 +7,7 @@ Having fun, doing good. Notes & Words is an annual benefit concert that brings w
 [logo]: {{ site.baseurl }}/images/UCSF-nw_invite.jpg "Notes & Words Benefit Concert For UCSF Benioff Children's Hospital & Research Center Oakland"
 
 
-* Youtube API : Video Gallery
+* YouTube API : Video Gallery
 
 * Flickr API  : Image Carousel
 
