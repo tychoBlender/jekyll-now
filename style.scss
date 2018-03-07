@@ -281,6 +281,12 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  a{
+	display:inline-block;
+	.svg{
+		vertical-align: bottom;
+	}
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
