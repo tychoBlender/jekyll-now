@@ -15,17 +15,21 @@ body {
   color: $darkGray;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 1400px;
-  padding: 0 10px;
-  width: 100%;
-  &--default{
+.container{
+	width: 100%;	
+}
+
+main.container {
+	margin: 0 auto;
+	max-width: 1400px;
+	padding: 0 10px;
+	width: 100%;
+	&--default{
 	  .entry h2{
 		  display:none;
 		  visibility:hidden;
 	  }
-  }
+	}
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -148,8 +152,16 @@ img {
 // .masthead
 //
 
-.wrapper-masthead {
-  margin-bottom: 50px;
+.wrapper{
+	&-masthead {
+		margin-bottom: 50px;
+	}
+	&-footer {
+		margin-top: 50px;
+		border-top: 1px solid #ddd;
+		border-bottom: 1px solid #ddd;
+		background-color: $lightGray;
+	}
 }
 
 .masthead {
@@ -267,13 +279,6 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
-}
-
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
 }
 
 footer {
