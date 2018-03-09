@@ -10,7 +10,7 @@ The Bay Area’s brilliant new workplace in Oakland, California. Light the way.
 
 ![alt text][logo]
 
-[logo]: {{ site.baseurl }}/images/BCN-Tower.jpg "Beacon Tower Registration Site"
+[logo]: {{ site.baseurl }}/images/BCN-Tower.png "Beacon Tower Registration Site"
 Custom Single Page Registration Site to introduce a the Beacon Tower brand and allow volunteers to register for future information. 
 
 * WordPress Theme Contributor
