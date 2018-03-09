@@ -1,15 +1,26 @@
-# GeoCoding
+---
+layout: post
+title: GeoCoding
+published: true
+---
+
+### GeoCoding
 
 Turning coordinates into addresses or addresses into coordinates is a regular task. IN combination with Advanced Custom Field updates, this chore is so easy to output into custom designs. Pinning locations using Google Maps API, MapBox API or simple Coordinate Grids help give flexibility to a fixed set of points of interest.
 
 ![alt text][screensnap]
 
 [screensnap]: {{ site.baseurl }}/images/DC-SDGMap.png "Signature Development Groups’ Expertise”
-[screensnap]: {{ site.baseurl }}/images/DC-HuxtonMap.png "SOMA Neighborhood Points of Interest”
+[screensnap]: {{ site.baseurl }}/images/DC-SDGMap-single.png "Signature Development Groups Single Property'
+[screensnap]: {{ site.baseurl }}/images/DC-SDGMap-single-expertise.png "Signature Development Groups Single Expertise”
+[screensnap]: {{ site.baseurl }}/images/DC-SomaMap.png "SOMA Neighborhood Points of Interest”
+[screensnap]: {{ site.baseurl }}/images/DC-SomaMap-single.png "SOMA Neighborhood Sample
 [screensnap]: {{ site.baseurl }}/images/DC-JSSullivanMap.png "JS Sullivan Developments List”
 [screensnap]: {{ site.baseurl }}/images/DC-CoveMap.png "The Cove at Marina Bay - Neighborhood Map”
 
 * WordPress CMS integration
+
+* Category Filtering
 
 * Google Maps API
 
@@ -20,6 +31,6 @@ Turning coordinates into addresses or addresses into coordinates is a regular ta
 * Leaflet Marklet Location Clustering
 
 [Signature Development Group](http://www.signaturedevelopment.com/)
-[Huxton San Francisco](https://www.js-sullivan.com/developments/)
+[Huxton San Francisco](#)
 [JS Sullivan](https://www.js-sullivan.com/developments/)
 [The Cove](http://thecoveca.com/neighborhood/)

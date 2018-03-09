@@ -1,13 +1,17 @@
-# CityLift
+---
+layout: post
+title: CityLift
+published: true
+---
+
+### CityLift
 
 Based in the San Francisco Bay Area, CityLift marries a real estate developers perspective with engineering expertise to create automated space-saving parking systems you can count on. CityLift solutions bring together real estate developers with a combined 50 years experience, design and system engineers, land use professionals and an impeccable installation and service team.
 
 ![alt text][screensnap]
 
-[screensnap]: {{ site.baseurl }}/images/CIT-SinglePage.png "The Cove at Marina Bay”
-[screensnap]: {{ site.baseurl }}/images/CIT-FloorPlans.png "The Cove at Marina Bay - Floor Plans”
-[screensnap]: {{ site.baseurl }}/images/CIT-Map.png "The Cove at Marina Bay - Neighborhood Map”
-Splash website referenced in early discussions for assiting with congestion and space within Oakland’s Hive neighborhood. 
+[screensnap]: {{ site.baseurl }}/images/CIT-SinglePage.png "Taking the space out of parking
+Splash website referenced in early discussions for assisting with space constraints within Oakland’s Hive neighborhood. 
 
 * Lead WordPress theme Developer 
 
@@ -15,4 +19,4 @@ Splash website referenced in early discussions for assiting with congestion and 
 
 * SVG Animation
 
-[HomePage](https://cityliftparking.com)
+[Visit Website](https://cityliftparking.com)

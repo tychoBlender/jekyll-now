@@ -1,16 +1,22 @@
-## Beacon Tower_ Light the Way
+---
+layout: post
+title: Beacon Tower_
+published: true
+---
 
-The Bay Area’s brilliant new workplace in Oakland, California
+### Beacon Tower
+
+The Bay Area’s brilliant new workplace in Oakland, California. Light the way.
 
 ![alt text][logo]
 
 [logo]: {{ site.baseurl }}/images/BCN-Tower.jpg "Beacon Tower Registration Site"
 Custom Single Page Registration Site to introduce a the Beacon Tower brand and allow volunteers to register for future information. 
 
-* Single Page : WordPress Theme and CMS
+* WordPress Theme Contributor
 
 * CSS Animation
 
-* MailChimp Form
+* MailChimp Integration
 
 [visit website](https://beacon-tower.com)

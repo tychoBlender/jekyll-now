@@ -1,4 +1,10 @@
-# Google Apps for Business aka GSUITE
+---
+layout: post
+title: GSuite by Google
+published: true
+---
+
+### G SUITE by Google
 
 Existing video content is housed at YouTube and (at the time) comprised 494 videos and 44 playlists. Main content categories  
 Work with Google to review and organize all content for prospective Students, Teachers and IT Decision Makers.

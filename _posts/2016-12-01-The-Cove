@@ -1,4 +1,10 @@
-# The Cove
+---
+layout: post
+title: The Cove
+published: true
+---
+
+### The Cove
 
 Coastal Living At Marina Bay, just 15 minutes from San Francisco, features an airy collection of spectacular waterfront one- and two-bedroom residences.
  
@@ -17,4 +23,5 @@ Coastal Living At Marina Bay, just 15 minutes from San Francisco, features an ai
 * Google Map API with Leaflet Marklet Location Clustering
 
 
-[HomePage](https://thecoveca.com)
+[Visit Website](http://thecoveca.com)
+[Neighborhood Map](http://thecoveca.com/neighborhood/)
