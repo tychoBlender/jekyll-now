@@ -263,7 +263,11 @@ nav {
 
 .intro{
   height:90vh;
+  width:100%;
   display:flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+  align-items:center;
   justify-content:center;
   .three{ 
     background-color:$maroon;
@@ -271,10 +275,14 @@ nav {
     height:300px;
   }
   .half{
+    flex:1;
     background-color:$red;
     color: $grey;
     height:60vh;
     height: 450px;
+    &:nth-child(2){
+      background-color:$darkgrey;
+    }
   }
 }
 
