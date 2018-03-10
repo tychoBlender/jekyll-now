@@ -14,7 +14,7 @@ html {
 }
 
 body {
-	background: #DDD;
+	background: #DDDDDD;
 	font: 18px/1.4 $helvetica;
 	color: $black;	
 	margin:25px;
@@ -25,7 +25,7 @@ body {
 }
 
 #main.container {
-	margin: 25 auto;
+	margin: 10px auto;
 	max-width: 1400px;
 	padding: 0 10px;
 	width: 100%;
@@ -163,7 +163,7 @@ img {
 		background-color: $lightGray;
 	}
 	&-footer {
-		margin-bottom: 20px;
+		margin-bottom: 10px;
 		border-top: 1px solid #ddd;
 		border-bottom: 1px solid #ddd;
 		background-color: $lightGray;
