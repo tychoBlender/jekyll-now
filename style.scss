@@ -290,6 +290,11 @@ nav {
 // .main
 //
 
+article{
+  width:100%;
+  max-width:980px;
+  margin:auto;
+}
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
