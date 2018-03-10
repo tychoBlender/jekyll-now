@@ -3,13 +3,12 @@ layout: default
 ---
   {% for post in site.posts %}
     <article class="post">
-	   <div class="entry-title">
+  <div class="entry-title">
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-	   </div>
-      <div class="entry">
+  </div>
+  <div class="entry">
         <!—- {{ post.title }} —->
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">continue reading</a>
-    </article>
+  </div>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">continue reading?</a>
+  </article>
   {% endfor %}
