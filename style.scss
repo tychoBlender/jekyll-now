@@ -265,12 +265,14 @@ nav {
   height:90vh;
   display:flex;
   justify-content:center;
-  .three{
+  .three{ 
     background-color:$maroon;
+    color: $white;
     height:60vh;
   }
   .half{
     background-color:$red;
+    color: $grey;
     height:60vh;
   }
 }
