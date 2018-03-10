@@ -164,11 +164,11 @@ img {
 
 .wrapper{
 	&-masthead {
-		padding:0 2.5%;
+		padding:0;
 		background-color: $lightGray;
 	}
 	&-footer {
-		margin-bottom: 2.5%;
+		margin-bottom: 5px;
 		border-top: 1px solid #ddd;
 		border-bottom: 1px solid #ddd;
 		background-color: $lightGray;
@@ -318,7 +318,7 @@ articles{
 }
 
 footer {
-  padding: 12px 0;
+  padding:0;
   text-align: center;
   a{
 	display:inline-block;
