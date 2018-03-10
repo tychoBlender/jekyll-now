@@ -253,6 +253,28 @@ nav {
   }
 }
 
+.three{
+  width: 100%;
+}
+
+.half{
+  width:50%;
+}
+
+.intro{
+  height:90vh;
+  display:flex;
+  justify-content:center;
+  .three{
+    background-color:$maroon;
+    height:60vh;
+  }
+  .half{
+    background-color:$red;
+    height:60vh;
+  }
+}
+
 //
 // .main
 //
