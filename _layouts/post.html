@@ -1,7 +1,17 @@
 ---
 layout: default
 ---
-
+<div class="wrapper-masthead masthead--project">
+    <header class="masthead clearfix">
+      <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+      <div class="site-info">
+        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <p class="site-description">{{ site.description }}</p>
+      </div>
+      <nav><a href="{{ site.baseurl }}/">Work</a><a href="{{ site.baseurl }}/about">Resume</a></nav>
+    </header>
+</div>
+<div id="main" role="main" class="container">
 <article class="post">
   <h3>{{ page.title }}</h3>
 
@@ -14,3 +24,4 @@ layout: default
   </div>
 
 </article>
+</div>
