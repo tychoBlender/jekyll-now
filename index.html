@@ -1,15 +1,12 @@
 ---
 layout: default
 ---
+  <h1>PROJECTS</h1>
   {% for post in site.posts %}
   <article class="post">
-  <div class="post--title">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-  </div>
+  <h3 class="post--title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
   {% if post.project %}
-  <div class="post--byline">  
-    <p>{{ post.byline }}</p>
-  </div>
+    <p class="post--byline">{{ post.byline }}</p>
   {% endif %}
   <a href="{{ site.baseurl }}{{ post.url }}" class="post--link read-more">continue reading?</a>
   </article>
