@@ -2,11 +2,15 @@
 layout: default
 ---
 
-<article class="post post--layout">
-  <div class="post--title">
-    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-  </div>
+<article class="post">
+  <h3>{{ page.title }}</h3>
+
   <div class="entry">
-  {{ post.title }}
+    {{ content }}
   </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
 </article>
