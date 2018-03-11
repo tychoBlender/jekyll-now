@@ -1,6 +1,8 @@
 ---
 layout: post
 title: GSuite by Google
+project: true
+byline: Encourage user engagement with Google Apps for Business video content
 published: true
 ---
 
@@ -9,11 +11,12 @@ published: true
 Existing video content is housed at YouTube and (at the time) comprised 494 videos and 44 playlists. Main content categories  
 Work with Google to review and organize all content for prospective Students, Teachers and IT Decision Makers.
  
-![alt text][logo]
+![alt text][screensnap]
 
-[logo]: {{ site.baseurl }}/images/GAYT-Collaborate.jpg "Google Apps for Business"
+[screensnap]: {{ site.baseurl }}/images/GAYT-Collaborate.jpg "Google Apps for Business"
+Encourage user engagement with Google Apps for Business video content
 
-* Encourage user engagement with Google Apps for Business video content
+* Google App Engine
 
 * YouTube API : Private Playlists as CMS
 
