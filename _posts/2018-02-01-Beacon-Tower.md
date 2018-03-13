@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Beacon Tower_
+project: true
+byline: Oakland's newest tower in the heart of booming Uptown Oakland
 published: true
 ---
 
 ### Light the way
 
-Newly announced workspace that won’t just reshape the Oakland skyline, its ~850,000 square feet tower will be based in the heart of booming Uptown Oakland. 
+Newly announced workspace reshaping the Oakland skyline with its ~850,000 square feet tower in the heart of booming Uptown Oakland. 
 
 ![alt text][logo]
 
