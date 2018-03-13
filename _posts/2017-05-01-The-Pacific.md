@@ -11,14 +11,16 @@ byline: Preview of your home with a 360 Virtual Tour
 Private Condominiums in San Francisco’s Pacific Heights District, all the layouts and finishes can be customized through a white glove build out concierge program coordinated by Land Developer Trumark Urban. Recent leaps in tech and renewed public interest in VR helped to include 360 Virtual Tours of Floor Plans to help potential buyers visualize life at the height of luxury.
 
 ![alt text][screensnap]
+![alt text][screensnap1]
+![alt text][screensnap2]
 
 [screensnap]: {{ site.baseurl }}/images/PAC-Penthouse.png "The Pacific"
 
 <a href="http://thepacificheights.com/pac-panos/grand-penthouse.html" target="_blank">virtual tour preview</a>
 
-[screensnap]: {{ site.baseurl }}/images/PAC-Panos.png "The Pacific - View Panoramic"
+[screensnap1]: {{ site.baseurl }}/images/PAC-Panos.png "The Pacific - View Panoramic"
 
-[screensnap]: {{ site.baseurl }}/images/PAC-FloorPlans.png "The Pacific - Available Units by Floor Plan"
+[screensnap2]: {{ site.baseurl }}/images/PAC-FloorPlans.png "The Pacific - Available Units by Floor Plan"
 
 <a href="http://thepacificheights.com/building/" target="_blank">visit website</a>
 
