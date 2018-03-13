@@ -6,7 +6,7 @@ byline: Encourage user engagement with Google Apps for Business video content
 published: true
 ---
 
-### G SUITE by Google
+### Google Apps for Business
 
 Existing video content is housed at YouTube and (at the time) comprised 494 videos and 44 playlists. Main content categories  
 Work with Google to review and organize all content for prospective Students, Teachers and IT Decision Makers.
@@ -24,4 +24,4 @@ Encourage user engagement with Google Apps for Business video content
 
 * Brand Interaction would be measurable via high level product offering summaries, Links to Contact Google, Links to enrollment to free trials and links to product documentation.
 
-[visit website](http://youtube.com/googleapps)
+<a href="youtube.com/googleapps" target="_blank">visit website</a>
