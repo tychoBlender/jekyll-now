@@ -3,10 +3,10 @@ layout: default
 ---
 <h1>Projects</h1>
 {% for post in site.posts %}
-<a href="{{ site.baseurl }}{{ post.url }}" class="post--link read-more"><article class="post">
+<article class="post" data-url="{{ site.baseurl }}{{ post.url }}">
 <h3 class="post--title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 {% if post.project %}
 <p class="post--byline">{{ post.byline }}</p>
 {% endif %}
-</article></a>
+</article>
 {% endfor %}
