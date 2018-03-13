@@ -1,9 +1,8 @@
 ---
 ---
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import "reset";
 @import "variables";
-
 html {
   font-size: 100%;
   padding:5px;
@@ -26,7 +25,7 @@ html:after{
 
 body {
 /*   background: #ddd; */
-  font: 18px/1.4 Helvetica, Arial, sans-serif;
+  font: 18px/1.4 'Open Sans', sans-serif;
   color: #111;
 }
 
@@ -45,7 +44,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #111;
   font-weight: bold;
   line-height: 1.7;
@@ -251,7 +250,7 @@ img {
 }
 
 .name__third{
-	display:table-cell;	
+/* 	display:table-cell;	 */
 	background-color: #fff;
 	text-align: center;
 	width:30.333%;
@@ -274,7 +273,6 @@ img {
 
 .name__logomark{
 /* 	margin: -2px -2px; */
-	display:table-cell;
 	text-align: center;	
 }
 
@@ -384,7 +382,7 @@ img {
 }
 .site-name,
 #main > h1{
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -410,7 +408,7 @@ img {
 nav {
 /*   float: right; */
 /*   margin-top: 23px; */
-/*   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+/*   font-family: 'Open Sans', sans-serif; */
 /*   font-size: 18px; */
 }
 @media screen and (max-width: 640px) {
@@ -472,7 +470,7 @@ article:nth-child(4) {
 article > h1{
 	text-align:left;
 	text-transform: uppercase;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 21px;
 	line-height:1.2em;
 	font-weight: normal;
@@ -480,13 +478,15 @@ article > h1{
 
 .container--project article > h3{
 	font-weight: normal;
-	font-size: 40px;	
-	line-height: 1.2em;
+	font-size: 33px;	
+	letter-spacing: -1.8px;
+	line-height: 1.4em;
 	margin-bottom:0;
 }
 
 .container--project article .entry h3{	
-	font-size: 27px;
+	font-size: 24px;
+	letter-spacing: -1.8px;
 	line-height: 1.2em;
 	font-weight: normal;
 	margin-bottom:0.72em;	
