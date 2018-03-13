@@ -18,4 +18,4 @@ As an industry leader, Cord Blood Registry® (CBR®) maintains educational landi
 
 ![cbr-landing-page-screensnap]({{ site.baseurl }}/images/CBR-CordBankingBasics.jpg "Promotional website informing the power of newborn’s stem cells")
 
-<a href="https://www.cordblood.com/cord-banking-basics target="_blank">view website</a>
+<a href="https://www.cordblood.com/cord-banking-basics" target="_blank">view website</a>
