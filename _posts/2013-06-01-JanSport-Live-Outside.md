@@ -19,6 +19,7 @@ JanSport’s Social Media presence is lively and inclusive across many different
 * Production Designer : Video Encoding, Photo Editing, Content Creation
 
 ![jansport-campaign-landing-page]({{ site.baseurl }}/images/JS-LiveOutsideLanding.jpg "JS-LiveOutsideTumblr.jpg")
+
 ![jansport-tumblr-theme]({{ site.baseurl }}/images/JS-LiveOutsideTumblr.jpg "JanSport Tumblr 2013 theme")
 
 
