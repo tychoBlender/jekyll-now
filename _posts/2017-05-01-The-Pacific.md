@@ -3,7 +3,7 @@ layout: post
 title: The Pacific
 published: true
 project: true
-byline: Preview of your home with a 360 Virtual Tour
+byline: Take a 360 Virtual Tour Preview of your customized San Francisco home
 ---
 
 ### An Artful Arrangement 
