@@ -188,7 +188,8 @@ img {
 
 .whois{
   display:block;
-  width:100%;  
+  width:100%;
+  max-width: 892.5px;
   margin:0;
 }
 
@@ -243,6 +244,10 @@ img {
   position:relative;
   display:table;
   width:100%;  
+}
+
+.name--spacer{
+	display:none;
 }
 
 .name__third{
@@ -566,6 +571,7 @@ footer a {
 footer a .svg {
   vertical-align: bottom;
 }
+
 /*****
  Imports
  *****/ 
