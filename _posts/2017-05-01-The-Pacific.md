@@ -12,13 +12,13 @@ Private Condominiums in San Francisco’s Pacific Heights District, all the layo
 
 ![alt text][screensnap]
 
-[screensnap]: {{ site.baseurl }}/images/PAC-Penthouse.png "The Pacific”
+[screensnap]: {{ site.baseurl }}/images/PAC-Penthouse.png "The Pacific"
 
 <a href="http://thepacificheights.com/pac-panos/grand-penthouse.html" target="_blank">virtual tour preview</a>
 
-[screensnap]: {{ site.baseurl }}/images/PAC-Panos.png "The Pacific - View Panoramic”
+[screensnap]: {{ site.baseurl }}/images/PAC-Panos.png "The Pacific - View Panoramic"
 
-[screensnap]: {{ site.baseurl }}/images/PAC-FloorPlans.png "The Pacific - Available Units by Floor Plan”
+[screensnap]: {{ site.baseurl }}/images/PAC-FloorPlans.png "The Pacific - Available Units by Floor Plan"
 
 <a href="http://thepacificheights.com/building/" target="_blank">visit website</a>
 
