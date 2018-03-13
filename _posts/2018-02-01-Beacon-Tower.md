@@ -4,9 +4,9 @@ title: Beacon Tower_
 published: true
 ---
 
-### Beacon Tower
+### Light the way
 
-The Bay Area’s brilliant new workplace in Oakland, California. Light the way.
+Newly announced workspace that won’t just reshape the Oakland skyline, its ~850,000 square feet tower will be based in the heart of booming Uptown Oakland. 
 
 ![alt text][logo]
 
