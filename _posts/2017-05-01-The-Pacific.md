@@ -14,11 +14,11 @@ Private Condominiums in San Francisco’s Pacific Heights District, all the layo
 
 <a href="http://thepacificheights.com/pac-panos/grand-penthouse.html" target="_blank">virtual tour preview</a>
 
-![Floor-Plan-Display]: {{ site.baseurl }}/images/PAC-FloorPlans.png "The Pacific - Available Units by Floor Plan"
+![Floor-Plan-Display]({{ site.baseurl }}/images/PAC-FloorPlans.png "The Pacific - Available Units by Floor Plan")
 
 <a href="http://thepacificheights.com/building/" target="_blank">visit website</a>
 
-![Single-Penthouse-Module]: {{ site.baseurl }}/images/PAC-Penthouse.png "The Pacific"
+![Single-Penthouse-Module]({{ site.baseurl }}/images/PAC-Penthouse.png "The Pacific")
 
 * WordPress Theme Contributor
 
