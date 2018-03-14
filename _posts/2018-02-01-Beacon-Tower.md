@@ -2,7 +2,7 @@
 layout: post
 title: Beacon Tower_
 project: true
-byline: East Bay's newest tower in the heart of booming Uptown Oakland
+byline: East Bay's newest tower
 published: true
 ---
 
