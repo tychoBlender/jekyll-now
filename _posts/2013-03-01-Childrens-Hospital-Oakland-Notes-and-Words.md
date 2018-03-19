@@ -2,11 +2,11 @@
 layout: post
 title: UCSF Benioff CHO
 published: true
-poroject: true
-byline: Having fun, doing good.
+project: true
+byline: Notes & Words Benefit Event
 ---
 
-### Children's Hospital Oakland: Notes & Words
+### Benioff Children's Hospital Benefit Event
 
 Having fun, doing good. Notes & Words is an annual benefit concert that brings writers and musicians on stage together in support of UCSF Benioff Children's Hospital Oakland. Contributed the Event Website from 2012-2013. Site promoted young adult essay contest submissions to be read and featured onstage at the event.
 
