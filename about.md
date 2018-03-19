@@ -3,80 +3,92 @@ layout: page
 title: About
 permalink: /about/
 ---
+<h3 id="contact-me">Contact me</h3>
+<p><a href="mailto:email@domain.com">email@domain.com</a></p>
 
-Some information about you me and everyone we know.
+<div class="entry">	
+<p class="intro">5+ years of HTML, CSS, JavaScript and PHP development knowledge designing, launching and maintaining websites. A Developer of UI/UX directly consulting with Design and Account teams in varying lifecycles. Past project have included work for commercial/residential Real Estate, Cord Blood Banking Children’s Hospital Oakland, Google, HP, JanSport, Sony and SF Travel among others. Collaborative and aware team member regularly entrusted to research and document technologies for demos, prototypes and presentations.</p>
 
-### More Information
+<h2 id="experience">Experience</h2>
 
-A place to try and explain yourself.
+<h4 id="allis--aug-2014---mar-2018">Allis <em>Front End Developer Aug 2014 - Mar 2018</em></h4>
 
-### Contact me
+<p>Luxury Real Estate and Hospitality Branding Studio in San Francisco.</p>
 
-[email@domain.com](mailto:email@domain.com)
+<ul>
+  <li>
+    <p>Work with developers, designers, and project leaders to ensure code quality and design fidelity.</p>
+  </li>
+  <li>
+    <p>Oversee monthly maintenance/quality of active WordPress sites</p>
+  </li>
+  <li>
+    <p>DevOps lite: Documentation + Server Admin / Github + BitBucket SVN</p>
+  </li>
+  <li>
+    <p>Production Design Assistant</p>
+  </li>
+  <li>
+    <p>Email Marketing Management : Mailchimp/Hubspot</p>
+  </li>
+  <li>
+    <p>IT Management</p>
+  </li>
+</ul>
 
-Danny brings 5+ years of HTML, CSS, JavaScript and PHP development knowledge to designing, launching and maintaining modern websites. A Developer of UI/UX directly consulting with Design and Account teams in varying lifecycles. Past project have included work for commercial/residential Real Estate, Cord Blood, Banking Children’s Hospital Oakland, Google, HP, JanSport, Sony and SF Travel among others. A collaborative and aware team member regularly entrusted to research and document technologies for demos, prototypes and presentations.
+<h4 id="teak--sept-2011---feb-2014">TEAK <em>Jr. Developer Sept 2011 - Feb 2014</em></h4>
 
-## Experience
+<p>Full Service Branded Content Agency in San Francisco.</p>
 
-#### Allis /// <em>Aug 2014 - Mar 2018</em>
+<ul>
+  <li>
+    <p>Work with directors, editors, vfx/animators and project leaders to integrate their work on the web.</p>
+  </li>
+  <li>
+    <p>DevOps lite: Linode / Beanstalk + Github SVN</p>
+  </li>
+  <li>
+    <p>Production Design Assistant : Brand Channel Content Manager</p>
+  </li>
+  <li>
+    <p>Google Analytics/Tag Manager/DoubleClick</p>
+  </li>
+  <li>
+    <p>AS3 Banner Ads / Presentation Prototypes</p>
+  </li>
+</ul>
 
-Luxury Real Estate and Hospitality Branding Studio in San Francisco. 
+<h4 id="apple--may-2008---sep-2011">Apple <em>Creative May 2008 - Sep 2011</em></h4>
 
-* Work with developers, designers, and project leaders to ensure code quality and design fidelity.
+<p>Hardware/Software User Experience Trainer in San Francisco</p>
 
-* Oversee monthly maintenance/quality of active WordPress sites
+<ul>
+  <li>
+    <p>Conduct over 6,000 hours of personal/group training on first party hardware and software</p>
+  </li>
+  <li>
+    <p>Point of Contact for testing Joint Venture subscription service within San Francisco market</p>
+  </li>
+  <li>
+    <p>Internal Train the Trainer Workshop Leader</p>
+  </li>
+</ul>
 
-* DevOps lite: Documentation + Server Admin / Github + BitBucket SVN
+<h2 id="education">Education</h2>
 
-* Production Design Assistant 
+<h4 id="treehouse--fall-2011---ongoing">Treehouse <em>Fall 2011 - Ongoing</em></h4>
 
-* Email Marketing Management : Mailchimp/Hubspot
+<p>Interaction Design and Modern Web studies</p>
 
-* IT Management
+<h4 id="sxsw-interactive--spring-2014">SXSW Interactive <em>Spring 2014</em></h4>
 
-#### TEAK /// <em>Sept 2011 - Feb 2014</em>
+<p>Web Design Standards Workshop</p>
 
-Full Service Branded Content Agency in San Francisco. 
+<h4 id="an-event-apart--winter-2013">An Event Apart <em>Winter 2013</em></h4>
 
-* Work with directors, editors, vfx/animators and project leaders to integrate their work on the web.
+<p>Mobile First/Responsive Design</p>
 
-* DevOps lite: Linode / Beanstalk + Github SVN
+<h4 id="academy-of-art-university--fall-2008---spring-2013">Academy of Art University, San Francisco <em>Fall 2008 - Spring 2013</em></h4>
 
-* Production Design Assistant : Brand Channel Content Manager
-
-* Banner Ads / Presentation Prototypes
-
-#### Apple /// <em>May 2008 - Sep 2011</em>
-
-Hardware/Software User Experience Trainer in San Francisco
-
-* Conduct over 6,000 hours of personal/group training on first party hardware and software
-
-* Point of Contact for testing Joint Venture subscription service within San Francisco market
-
-* Internal Train the Trainer Workshop Leader
-
-## Education
-
-#### Treehouse /// <em>Fall 2011 - Ongoing</em>
-
-Interaction Design and Modern Web studies
-
-#### SXSW Interactive /// <em>Spring 2014</em>
-
-Web Design Standards Workshop
-
-#### An Event Apart /// <em>Winter 2013</em>
-
-Mobile First/Responsive Design 
-
-#### Academy of Art University /// <em>Fall 2008 - Spring 2013</em>
-
-BFA Web Design New Media 
-
-
-
-
-
-
-
+<p>BFA Web Design New Media. Experiential design and Digital media. Integrated fundamentals of design thinking, visual communication, technology, and user experience. </p>
+</div>
