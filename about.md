@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /resume/
 ---
 <h3 id="contact-me">Contact me</h3>
 <p><a href="mailto:email@domain.com">email@domain.com</a></p>
