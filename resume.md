@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: resume
 title: Resume
 permalink: /resume/
 ---
