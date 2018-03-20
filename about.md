@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /resume/
 ---
-<h3 id="contact-me">Contact me</h3>
-<p><a href="mailto:email@domain.com">email@domain.com</a></p>
+<p class="intro">
+contact me: <a href="http://www.google.com/recaptcha/mailhide/d?k=01sZl_kmJCfQ_aMk-vNXZKFA==&c=8CFsFWnPIcVATlQuJXekgIMqIbXEPQsbfYOzhZ9YiOk=" style="text-decoration-skip-ink: auto;">danny@castlllo dot com</a><br><br>
 
-<div class="entry">	
-<p class="intro">5+ years of HTML, CSS, JavaScript and PHP development knowledge designing, launching and maintaining websites. A Developer of UI/UX directly consulting with Design and Account teams in varying lifecycles. Past project have included work for commercial/residential Real Estate, Cord Blood Banking Children’s Hospital Oakland, Google, HP, JanSport, Sony and SF Travel among others. Collaborative and aware team member regularly entrusted to research and document technologies for demos, prototypes and presentations.</p>
+DANNY CASTILLO brings 5+ years of HTML, CSS, JavaScript and PHP development knowledge designing, launching and maintaining websites. A Developer of UI/UX directly consulting with Design and Account teams in varying lifecycles. Past project have included work for commercial/residential Real Estate, Cord Blood Banking Children’s Hospital Oakland, Google, HP, JanSport, Sony and SF Travel among others. Collaborative and aware team member regularly entrusted to research and document technologies for demos, prototypes and presentations.
+</p>
 
 <h2 id="experience">Experience</h2>
 
