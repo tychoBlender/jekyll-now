@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: project
+title: Resume
 permalink: /resume/
 ---
 <p class="intro">
