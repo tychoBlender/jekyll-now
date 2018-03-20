@@ -143,11 +143,11 @@ b {
 	font-style: italic;
 	color: #ddd;
 }
-&::-moz-selection {
+:-moz-selection {
 	color: #111;
 	background: #eee;
 }
-&::selection {
+:selection {
 	color: #111;
 	background: #eee;
 }
