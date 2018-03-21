@@ -22,4 +22,4 @@ logo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 514.8 220.3">
 
 ![Beacon-Tower-Registration-Site]({{ site.baseurl }}/images/BCN-Tower.png "Beacon Tower Registration Site")
 
-<a class="bcn--gradient" href="https://beacon-tower.com" target="_blank">visit website</a>
+<a class="grad--bcn" href="https://beacon-tower.com" target="_blank">visit website</a>
