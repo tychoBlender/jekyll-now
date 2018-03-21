@@ -12,7 +12,7 @@ logo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 514.8 220.3">
 
 ### Light the way
 
-Newly announced workspace reshaping the Oakland skyline with its ~850,000 square feet tower in the heart of booming Uptown Oakland. Custom Single Page Registration Site to introduce a the Beacon Tower brand and allow volunteers to register for future information. 
+<p class=“first”>Newly announced workspace reshaping the Oakland skyline with its ~850,000 square feet tower in the heart of booming Uptown Oakland. Custom Single Page Registration Site to introduce a the Beacon Tower brand and allow volunteers to register for future information.</p>
 
 * WordPress Theme Contributor
 
@@ -22,4 +22,4 @@ Newly announced workspace reshaping the Oakland skyline with its ~850,000 square
 
 ![Beacon-Tower-Registration-Site]({{ site.baseurl }}/images/BCN-Tower.png "Beacon Tower Registration Site")
 
-<a href="https://beacon-tower.com" target="_blank">visit website</a>
+<a class=“bcn--gradient” href="https://beacon-tower.com" target="_blank">visit website</a>
