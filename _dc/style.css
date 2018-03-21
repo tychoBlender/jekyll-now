@@ -4,7 +4,7 @@
 /* MEYER RESET+ */
 /***************/
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+h1, h2, h3, h4, h5, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -62,6 +62,12 @@ table {
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 body {
@@ -275,12 +281,7 @@ body {
 	background-color:#121212;
 }
 
-#main.container--default .entry h2 {
-  display: none;
-  visibility: hidden;
-}
-
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
   font-family: 'Josefin Sans', sans-serif;
   color: #fff;
   font-weight: normal;
@@ -288,15 +289,20 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
 }
+
 @media screen and (max-width: 640px) {
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4, h5 {
     line-height: 1.4;
   }
 }
 
 h1 {
   font-size: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;  
+  font-size: 28px;  
 }
+
 h1 a {
   color: inherit;
 }
@@ -324,7 +330,7 @@ a {
 }
 
 a:hover, a:active {
-/*   color: #fff; */
+  color: inherit;
 }
 
 ul, ol {
@@ -356,13 +362,15 @@ strong, b {
   font-weight: bold;
 }
 
-img {
-/*   max-width: 100%; */
-}
-
-.gmnoprint img {
-  max-width: none;
-}
+img[alt*=".jpg"],
+img[alt*=".jpeg"],
+img[alt*=".gif"],
+img[alt*=".webp"],
+img[alt*=".png"],
+img[alt*="Photographer:"],
+img[alt*="Image of:"],
+img[alt*="Photo of:"],
+img:not([alt$="."]){ outline: 5px solid orange; }
 
 .date {
   font-style: italic;
@@ -412,11 +420,6 @@ img {
 	background-color: #fff;
 }
 
-@media screen and (max-width: 640px) {
-  .masthead {
-/*     text-align: center; */
-  }
-}
 
 .whois{
   display:block;
@@ -426,10 +429,6 @@ img {
   margin:0;
 }
 
-
-.whois a{
-	
-}
 
 @media screen and (min-width: 900px) {
   .whois--home{
@@ -514,19 +513,6 @@ img {
 	fill:#111;
 }
 
-@media screen and (min-width: 1024px) {
-  .whois--home .whois__top{
-/* 	padding-bottom:4.5%; */
-  }
-  .top__screen{
-/*
-    background: url(images/hi_dc-lrg.svg);
-    background-position:center center;
-	background-repeat: no-repeat;
-	background-size:100% 100%;
-*/
-  }
-}
 #player{
 	opacity:0; 
 	transition: opacity 250ms ease;
@@ -577,7 +563,6 @@ background-size: cover;
 .whois--project .whois__name{
   position:relative;
   display:table;
-  width:100%;  
 }
 
 .name--spacer{
@@ -682,25 +667,11 @@ background-size: cover;
 	height:100%;
 }
 
-@media screen and (max-width: 768px) {
-  .whois{
-/*     height:100vh; */
-  }
-  .whois__top{
-/*     height:90%; */
-  }
-  .whois__btm{
-/*     height:10vh;  */
-  }	
-}
-
 .site-avatar {
   width: 40px;
   height: 40px;
 }
-.site-avatar img {
-	
-}
+
 @media screen and (max-width: 640px) {
   .site-avatar {
     float: none;
@@ -708,6 +679,7 @@ background-size: cover;
     margin: 0 auto;
   }
 }
+
 .site-avatar img {
   border-radius: 5px;
 }
@@ -722,12 +694,6 @@ background-size: cover;
     margin: 0 auto;
   }
 }
-
-#main > h1{
-  font-family: 'Josefin Sans', sans-serif;
-  font-weight: 300;  
-  font-size: 28px;  
- }
 
 .container--default h1{
   letter-spacing: -2px;
@@ -813,51 +779,12 @@ text-decoration: none;
   }
 }
 
-nav {
-/*   float: right; */
-/*   margin-top: 23px; */
-/*   font-family: 'Josefin Sans', sans-serif; */
-/*   font-size: 18px; */
-}
-@media screen and (max-width: 640px) {
-  nav {
-/*     float: none; */
-/*     margin-top: 9px; */
-/*     display: block; */
-/*     font-size: 16px; */
-  }
-}
-nav a {
-/*   margin-left: 20px; */
-/*   color: #111; */
-/*   text-align: right; */
-/*   font-weight: 300; */
-/*   letter-spacing: 1px; */
-}
-@media screen and (max-width: 640px) {
-  nav a {
-/*     margin: 0 10px; */
-/*     color: #0074D9; */
-  }
-}
-
 @media screen and (max-width: 768px) {
 	article{
 	  width:100%;
 	}
 }
 
-article {
-/*   flex-grow: 1; */
-/*   padding:2.5%; */
-/*   margin:2.5px; */
-/*   box-shadow: 0 10px 20px rgba(0,0,0,0.0), 0 6px 6px rgba(0,0,0,0.03); */
-/*   background-color:#101412; */
-}
-
-.container--default article{
-/* 	margin-bottom:6%; */
-}
 .container--default .container__articleWrap{
 	max-width: 892.5px;
 	display:flex;
@@ -894,7 +821,12 @@ article {
 	}
 }
 
-.container--about .page{
+.container--about .page {
+	position:relative;
+	padding-top:2.5%;
+	margin:auto;
+}
+.container--about .page .entry{
 	 padding:2.5%;
 	 margin:auto;
 }
@@ -972,7 +904,7 @@ article .entry,
 
 .container--project .entry{	
 	padding-top:6%;
-	padding-bottom:6%;
+	padding-bottom:4%;
 	position: relative;
 	display: block;
 	height:100%;
@@ -1026,7 +958,8 @@ article .entry,
 }
 
 .container--project .entry > img,
-.entry__screensnap{
+.entry__screensnap,
+.container__detail{
 	position: relative;
 	display:block;
 	width:100%;
@@ -1153,23 +1086,15 @@ article .entry p{
 	max-width:700px;
 }
 
-.container--about article > h3,
-.container--about article > p,
-.container--about article p.intro{
-	text-align:center;	
-}
-
 .container--about article .entry h2{
 	margin: 0.3em auto;
 }
 
 .container--about article p.intro{
-	margin: 3em auto;
+	margin: 1.5em auto 3em ;
+	max-width: 450px;
 }
 
-.container--about article > h3{
-	margin-top:1em;
-}
 .container--about article h3 + p {
 	margin:0;
 }
@@ -1199,6 +1124,49 @@ article .entry p{
 .container--about article li p{
 	display:inline-block;
 	margin-left:1em;
+}
+
+.container__detail{
+	width:100%;
+	margin-top:1.08em;	
+}
+
+.container__detail img{
+	vertical-align: bottom;
+}
+
+.container__detail .detail__caption{
+	display:none;
+}
+
+@media screen and (min-width: 640px) {
+	.container__detail{
+		margin-top:0;
+	}
+	.container__detail img,
+	.container__detail .detail__caption{
+		display:inline-block;
+		font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+		font-size: 0.9em;
+		line-height: 1.2em;
+	}	
+	.container__detail img{
+		position:relative;	
+		width:50%;
+		vertical-align: top;
+	}
+	.container__detail .detail__caption{	
+		position:relative;	
+		height:100%;
+		width:50%;		
+		padding-right:5%;	
+	}
+	.container__detail p,
+	.container__detail .detail__caption p{
+		margin:0;
+		position:relative;		
+		max-width:450px;
+	}
 }
 
 article .entry img{
