@@ -102,6 +102,10 @@ a {
 	&:active {
 		color: inherit;
 	}
+   &.bcn--gradient{
+      background: -webkit-linear-gradient(right bottom, #FFF42D, #FFF498);
+      background: linear-gradient(to left top, #FFF42D, #FFF498);
+   }
 }
 ul {
 	margin: 15px 0;
