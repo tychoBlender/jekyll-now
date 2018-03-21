@@ -391,16 +391,7 @@ b {
 	display: block;
 	width: 100%;
 }
-.whois__btm {
-	display: block;
-	width: 100%;
-	a {
-		text-decoration: none;
-		font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-		font-size: 0.9em;
-		line-height: 1.2em;
-	}
-}
+
 .whois__name {
 	a {
 		text-decoration: none;
@@ -425,6 +416,14 @@ b {
 		bottom: 1rem;
 		text-align: center;
 		color: #fff;
+		display: block;
+		width: 100%;
+		a {
+			text-decoration: none;
+			font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+			font-size: 0.9em;
+			line-height: 1.2em;
+		}		
 	}
 	.btm--half {
 		position: relative;
