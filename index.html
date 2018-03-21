@@ -4,9 +4,10 @@ layout: default
 <h1>Projects</h1>
 {% for post in site.posts %}
 <article class="post" data-url="{{ site.url }}{{ post.url }}">
-<h3 class="post--title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+{% if post.logo %}<div class="post__logo">{{ post.logo }}</div>{% endif %}
+<h3 class="post__title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
 {% if post.project %}
-<p class="post--byline">{{ post.byline }}</p>
+<p class="post__byline">{{ post.byline }}</p>
 {% endif %}
 </article>
 {% endfor %}
