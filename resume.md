@@ -91,4 +91,3 @@ DANNY CASTILLO brings 5+ years of HTML, CSS, JavaScript and PHP development know
 <h4 id="academy-of-art-university--fall-2008---spring-2013">Academy of Art University, San Francisco <em>Fall 2008 - Spring 2013</em></h4>
 
 <p>BFA Web Design New Media. Experiential design and Digital media. Integrated fundamentals of design thinking, visual communication, technology, and user experience. </p>
-</div>
