@@ -20,6 +20,8 @@ logo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 514.8 220.3">
 
 * MailChimp Integration
 
-![Beacon-Tower-Registration-Site]({{ site.baseurl }}/images/BCN-Tower.png "Beacon Tower Registration Site")
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/beacon/bcn-desktop-dellxps.png" alt="Google Apps for Business Product home page" title="Google Apps for Business"><img src="{{ site.url }}/images/beacon//bcn-mobile-pixel2.png" alt="Google Apps for Business Product home page" title="Google Apps for Business">	
+</div>
 
 <a class="grad--bcn" href="https://beacontower.com" target="_blank">visit website</a>
