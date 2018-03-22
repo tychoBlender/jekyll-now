@@ -362,16 +362,6 @@ strong, b {
   font-weight: bold;
 }
 
-img[alt*=".jpg"],
-img[alt*=".jpeg"],
-img[alt*=".gif"],
-img[alt*=".webp"],
-img[alt*=".png"],
-img[alt*="Photographer:"],
-img[alt*="Image of:"],
-img[alt*="Photo of:"],
-img:not([alt$="."]){ outline: 5px solid orange; }
-
 .date {
   font-style: italic;
   color: #ddd;
