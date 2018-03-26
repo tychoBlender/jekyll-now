@@ -12,6 +12,7 @@ html {
   min-height: 100vh;
   height: auto;
 }
+/*
 html:after {
   content: '';
   position: fixed;
@@ -25,6 +26,7 @@ html:after {
   opacity: 0.6;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 }
+*/
 
 body {
   font: 18px/1.4 'Josefin Sans', sans-serif;
@@ -1093,6 +1095,7 @@ footer a .svg {
     max-width: 450px;
   }
 }
+
 /*****
  Imports
  *****/ 
