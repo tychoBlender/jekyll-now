@@ -4,6 +4,11 @@
 @import "reset";
 @import "variables";
 
+---
+---
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import "reset";
+@import "variables";
 
 html {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
@@ -468,6 +473,15 @@ b {
 .whois__top {
   display: block;
   width: 100%;
+  .top__video__screen{
+	  position:absolute;
+	  top:0;
+	  left:0;
+	  height:100%;
+	  width:100%;
+	  background-color:rgba(255,0,0,0);
+	  z-index:1;
+  }
 }
 
 .whois__name a {
@@ -1100,6 +1114,12 @@ footer a .svg {
     max-width: 450px;
   }
 }
+
+/*****
+ Imports
+ *****/ 
+@import "highlights";
+@import "svg-icons";
 
 /*****
  Imports
