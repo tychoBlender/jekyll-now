@@ -4,12 +4,6 @@
 @import "reset";
 @import "variables";
 
----
----
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
-@import "reset";
-@import "variables";
-
 html {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
   font-size: 100%;
@@ -18,19 +12,19 @@ html {
   box-sizing: border-box;
   min-height: 100vh;
   height: auto;
-}
-html:after {
-  content: '';
-  position: fixed;
-  z-index: -1;
-  top: 0;
-  left: 0;
-  height: 100vh;
-  width: 100vw;
-  background: -webkit-linear-gradient(45deg, #ff1a66 0%, rgba(255, 26, 102, 0) 70%), -webkit-linear-gradient(315deg, #0643f9 10%, rgba(6, 67, 249, 0) 80%), -webkit-linear-gradient(225deg, #0df259 10%, rgba(13, 242, 89, 0) 80%), -webkit-linear-gradient(135deg, #f99e1f 100%, rgba(249, 158, 31, 0) 70%);
-  background: linear-gradient(45deg, #ff1a66 0%, rgba(255, 26, 102, 0) 70%), linear-gradient(135deg, #0643f9 10%, rgba(6, 67, 249, 0) 80%), linear-gradient(225deg, #0df259 10%, rgba(13, 242, 89, 0) 80%), linear-gradient(315deg, #f99e1f 100%, rgba(249, 158, 31, 0) 70%);
-  opacity: 0.6;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+  &:after {
+	content: '';
+	position: fixed;
+	z-index: -1;
+	top: 0;
+	left: 0;
+	height: 100vh;
+	width: 100vw;
+	background: -webkit-linear-gradient(45deg, #ff1a66 0%, rgba(255, 26, 102, 0) 70%), -webkit-linear-gradient(315deg, #0643f9 10%, rgba(6, 67, 249, 0) 80%), -webkit-linear-gradient(225deg, #0df259 10%, rgba(13, 242, 89, 0) 80%), -webkit-linear-gradient(135deg, #f99e1f 100%, rgba(249, 158, 31, 0) 70%);
+	background: linear-gradient(45deg, #ff1a66 0%, rgba(255, 26, 102, 0) 70%), linear-gradient(135deg, #0643f9 10%, rgba(6, 67, 249, 0) 80%), linear-gradient(225deg, #0df259 10%, rgba(13, 242, 89, 0) 80%), linear-gradient(315deg, #f99e1f 100%, rgba(249, 158, 31, 0) 70%);
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	}
 }
 
 body {
@@ -513,12 +507,12 @@ b {
   color: #fff;
   display: block;
   width: 100%;
-}
-.whois--home .whois__btm a {
-  text-decoration: none;
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 0.9em;
   line-height: 1.2em;
+}
+.whois--home .whois__btm a {
+  text-decoration: none;  
 }
 .whois--home .btm--half {
   position: relative;
@@ -1114,12 +1108,6 @@ footer a .svg {
     max-width: 450px;
   }
 }
-
-/*****
- Imports
- *****/ 
-@import "highlights";
-@import "svg-icons";
 
 /*****
  Imports
