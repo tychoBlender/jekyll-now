@@ -1,6 +1,5 @@
 ---
 ---
-
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
 @import "reset";
 @import "variables";
@@ -13,8 +12,7 @@ html {
   box-sizing: border-box;
   min-height: 100vh;
   height: auto;
-}
-html:after {
+  &:after {
   content: '';
   position: fixed;
   z-index: -1;
@@ -26,6 +24,7 @@ html:after {
   background: linear-gradient(45deg, #ff1a66 0%, rgba(255, 26, 102, 0) 70%), linear-gradient(135deg, #0643f9 10%, rgba(6, 67, 249, 0) 80%), linear-gradient(225deg, #0df259 10%, rgba(13, 242, 89, 0) 80%), linear-gradient(315deg, #f99e1f 100%, rgba(249, 158, 31, 0) 70%);
   opacity: 0.6;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+  }
 }
 
 body {
