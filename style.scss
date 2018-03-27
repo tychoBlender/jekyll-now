@@ -178,3 +178,69 @@ a.grad--goo {
   background: linear-gradient(to left top, #5784E5, #98B2F4);
   color: #111;
 }
+ul {
+  margin: 15px 0;
+  padding-left: 30px;
+  list-style-type: disc;
+}
+ul ol {
+  margin: 0;
+}
+ul ul {
+  margin: 0;
+  list-style-type: circle;
+}
+
+ol {
+  margin: 15px 0;
+  padding-left: 30px;
+  list-style-type: decimal;
+}
+ol ul {
+  margin: 0;
+  list-style-type: circle;
+}
+ol ol {
+  margin: 0;
+}
+
+em {
+  font-style: italic;
+}
+
+i {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+b {
+  font-weight: bold;
+}
+
+.date {
+  font-style: italic;
+  color: #ddd;
+}
+
+:-moz-selection {
+  color: #111;
+  background: #eee;
+}
+
+:selection {
+  color: #111;
+  background: #eee;
+}
+
+.clearfix:before {
+  content: " ";
+  display: table;
+}
+.clearfix:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
