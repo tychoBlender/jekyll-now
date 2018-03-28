@@ -20,6 +20,6 @@ Having fun, doing good. Notes & Words is an annual benefit concert that brings w
 * Revised through Event Lifecycle: Teaser, Event, Recap
  
 
-<div class="entry__screensnap entry__screensnap--half"><img src="{{ site.url }}/images/BCH-desktop-info.min.png" alt="" title=</div>
+<div class="entry__screensnap entry__screensnap--half"><img src="{{ site.url }}/images/BCH-desktop-info.min.png" alt="" title= "" /></div>
 
 <a class="grad--cho" href="http://notesandwords.org" target="_blank">visit website</a>
