@@ -23,6 +23,9 @@ DANNY CASTILLO brings 5+ years of HTML, CSS, JavaScript and PHP development know
     <p>Oversee monthly maintenance/quality of active WordPress sites</p>
   </li>
   <li>
+    <p>Author/Contribute to custom WordPress themes</p>
+  </li>
+  <li>
     <p>DevOps lite: Documentation + Server Admin / Github + BitBucket SVN</p>
   </li>
   <li>
@@ -43,6 +46,9 @@ DANNY CASTILLO brings 5+ years of HTML, CSS, JavaScript and PHP development know
 <ul>
   <li>
     <p>Work with directors, editors, vfx/animators and project leaders to integrate their work on the web.</p>
+  </li>
+  <li>
+    <p>Author/ Contribute to custom WordPress themes</p>
   </li>
   <li>
     <p>DevOps lite: Linode / Beanstalk + Github SVN</p>
