@@ -436,10 +436,10 @@ b {
 //   display: block;
 }
 .container--project .screensnap__caption{
-	width:50%;
+	width:95%;
+	margin:auto;
 	text-align: left;
-	display: inline-block;
-    vertical-align:  middle;
+	display: block;
 }
 
 .container--project .screensnap__caption a{
@@ -449,6 +449,10 @@ b {
 @media screen and (max-width: 640px) {
 	.container--project .screensnap__caption a{
 		margin:0;
+		width:50%;
+		text-align: left;
+		display: inline-block;
+		vertical-align:  middle;
 	}	
 }
 
