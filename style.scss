@@ -436,8 +436,20 @@ b {
 //   display: block;
 }
 .container--project .screensnap__caption{
+	width:50%;
+	text-align: left;
 	display: inline-block;
     vertical-align:  middle;
+}
+
+.container--project .screensnap__caption a{
+	margin-top:30px
+}
+
+@media screen and (max-width: 640px) {
+	.container--project .screensnap__caption a{
+		margin:0;
+	}	
 }
 
 .container--project .entry__branding {
