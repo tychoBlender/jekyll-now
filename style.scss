@@ -412,6 +412,9 @@ b {
   text-decoration: none;
   text-align: center;
 }
+.container--project .entry a.grad--geo{
+	max-width:330px;
+}
 .container--project .entry > img {
   position: relative;
   display: block;
@@ -443,6 +446,26 @@ b {
 
 .container--project .screensnap__caption a{
 	margin-top:30px
+}
+
+.resume__pic{
+	height:175px;
+	width:100%;
+	margin:auto auto 3em;
+	background-color:red;
+	background-image: url('images/resume-dc.min.jpg');
+	background-position: center 45%;
+	background-size:cover;
+	background-repeat:no-repeat; 
+}	
+
+.resume__email{
+	&:before{
+		content:'castiiiio@'
+	}
+	&:after{
+		content:'icloud.com'
+	}
 }
 
 @media screen and (min-width: 640px) {
