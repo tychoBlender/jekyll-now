@@ -18,16 +18,14 @@ Private Condominiums in San Francisco’s Pacific Heights District, all the layo
 
 * KRPano/360 Viewer Gallery Integration
 
-![Virtual-Tour-in-viewport]({{ site.baseurl }}/images/PAC-Panos.png "The Pacific - Virtual Tour")
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/PAC-desktop-website.min.png" alt="" title=""><img src="{{ site.url }}/images/PAC-mobile-tour.min.png" alt="" title="">	
+</div>
 
-<a href="http://thepacificheights.com/pac-panos/grand-penthouse.html" target="_blank">virtual tour preview</a>
+<a class="grad--pac" href="http://thepacificheights.com/pac-panos/grand-penthouse.html" target="_blank">virtual tour preview</a>
 
-![Floor-Plan-Display]({{ site.baseurl }}/images/PAC-FloorPlans.png "The Pacific - Available Units by Floor Plan")
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/PAC-mobile-website.min.png" alt="" title=""><img src="{{ site.url }}/images/PAC-desktop-tour.min.png" alt="" title="">	
+</div>
 
-<a href="http://thepacificheights.com/building/" target="_blank">visit website</a>
-
-![Single-Penthouse-Module]({{ site.baseurl }}/images/PAC-Penthouse.png "The Pacific")
-
-
-
-
+<a class="grad--pac" href="http://thepacificheights.com/building" target="_blank">view website</a>
