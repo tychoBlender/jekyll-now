@@ -18,7 +18,7 @@ html {
 	  z-index: -1;
 	  top: 0;
 	  left: 0;
-	  height: 100vh;
+	  height: 105vh;
 	  width: 100vw;
 	  background: -webkit-linear-gradient(45deg, #ff1a66 0%, rgba(255, 26, 102, 0) 70%), -webkit-linear-gradient(315deg, #0643f9 10%, rgba(6, 67, 249, 0) 80%), -webkit-linear-gradient(225deg, #0df259 10%, rgba(13, 242, 89, 0) 80%), -webkit-linear-gradient(135deg, #f99e1f 100%, rgba(249, 158, 31, 0) 70%);
 	  background: linear-gradient(45deg, #ff1a66 0%, rgba(255, 26, 102, 0) 70%), linear-gradient(135deg, #0643f9 10%, rgba(6, 67, 249, 0) 80%), linear-gradient(225deg, #0df259 10%, rgba(13, 242, 89, 0) 80%), linear-gradient(315deg, #f99e1f 100%, rgba(249, 158, 31, 0) 70%);
@@ -549,7 +549,7 @@ b {
 .top__video video {
   position: absolute;
   z-index: 0;
-  top: 50%;
+  top: 45%;
   left: 50%;
   height: auto;
   -webkit-mask: url(images/type.svg) no-repeat center center/50% 45%;
@@ -557,6 +557,11 @@ b {
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
   background-size: cover;
+}
+@media screen and (max-width: 640px) {
+	.top__video video {
+		top: 50%;		
+	}
 }
 .top__video img {
   position: absolute;
