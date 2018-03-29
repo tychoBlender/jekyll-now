@@ -382,12 +382,11 @@ b {
 .container--project .entry ul {
   max-width: 892.5px;
   width: 95%;
-  margin: auto;
+  margin: 0 auto 30px auto;
   list-style-type: none;
   position: relative;
   line-height: 1em;
   padding: 0;
-  margin: 0 auto;
   max-width: 600px;
 }
 .container--project .entry li {
@@ -406,8 +405,8 @@ b {
 }
 .container--project .entry a {
   position: relative;
-  max-width: 200px;
-  padding: 12px 0;
+  max-width: 220px;
+  padding: 12px 3px;
   margin: 0 auto;
   display: block;
   text-decoration: none;

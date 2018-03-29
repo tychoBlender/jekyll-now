@@ -27,7 +27,3 @@ Two 13-story modern glass and concrete structures centered with a generous court
 </div>
 
 <a class="grad--roc" href="http://therockwellsf.com/floor-plans/" target="_blank">floor plans</a>
-
-### Press
-
-# <a href="https://sf.curbed.com/2015/3/20/9978628/first-look-inside-rockwell-as-it-gets-ready-to-start-sales" target="_blank">curbedSF - first look</a>
