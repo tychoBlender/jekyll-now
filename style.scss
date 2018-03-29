@@ -446,8 +446,8 @@ b {
 	margin-top:30px
 }
 
-@media screen and (max-width: 640px) {
-	.container--project .screensnap__caption a{
+@media screen and (min-width: 640px) {
+	.container--project .screensnap__caption{
 		margin:0;
 		width:50%;
 		text-align: left;
