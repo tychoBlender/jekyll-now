@@ -430,11 +430,16 @@ b {
 }
 .container--project .entry__screensnap--half img {
   display: inline-block;
-  vertical-align: top;
+  vertical-align: middle;
 }
 .container--project .entry__screensnap--half p {
-  display: block;
+//   display: block;
 }
+.container--project .screensnap__caption{
+	display: inline-block;
+    vertical-align:  middle;
+}
+
 .container--project .entry__branding {
   padding-top: 18%;
   background: url(images/google/logo-large.png), -webkit-linear-gradient(#7847b2, #7847b2);
