@@ -659,16 +659,11 @@ b {
   box-sizing: border-box;
   margin-bottom: 5px;
 }
-.whois--project .whois__top {
+.whois--project .whois__top,
+.whois--project .whois__btm  {
   background-color: #fff;
   padding: 0;
-  height: 16.5px;
-  color: transparent;
-}
-.whois--project .whois__btm {
-  background-color: #fff;
-  padding: 0;
-  height: 16.5px;
+//   height: 16.5px;
   color: transparent;
 }
 .whois--project .whois__name {
@@ -701,6 +696,7 @@ b {
   display: table-cell;
   background-color: #fff;
   text-align: center;
+  vertical-align:middle;
   width: 12.333%;
   color: #001F3F;
   font-size: 14px;
@@ -713,7 +709,7 @@ b {
   background-repeat: no-repeat;
   background-size: cover;
   width: 17%;
-  padding-top: 2%;
+  padding-top: 41%;
 }
 .name__logomark img {
   vertical-align: bottom;
@@ -1021,18 +1017,28 @@ footer a .svg {
 }
 @media screen and (min-width: 900px) {
   .whois--project .whois__top {
-    height: 1.2%;
+//     height: 1.2%;
   }
   .whois--project .whois__btm {
-    height: 1.2%;
+//     height: 1.2%;
   }
 }
 @media screen and (min-width: 400px) {
   .name__third {
-    width: 30.333%;
+    width: 18%;
   }
 }
+@media screen and (min-width: 470px) {
+  .name__logomark{
+    width: 25.5%;
+    padding-top: 6%;
+  }
+}
+
 @media screen and (min-width: 768px) {
+  .name__logomark{
+	width: 28%;  
+  }  
   .name__third {
     width: 11.575%;
   }
@@ -1059,12 +1065,7 @@ footer a .svg {
     width: 18%;
   }
 
-  .name--spacer {
-    width: 23%;
-    background-color: #fff;
-    display: table-cell;
-    visibility: visible;
-  }
+  .name--spacer {}
 }
 @media screen and (min-width: 730px) {
   .post__logo {
