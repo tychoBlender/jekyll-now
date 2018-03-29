@@ -4,7 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-<div class="resume__pic"></div>
 <p class="intro">
 contact me: <a class="resume__link" uers=\"znvygb:pnfgvvvb@vpybhq.pbz\" ery=\"absbyybj\"><span class="resume__email"></span></a>
 <br><br>
