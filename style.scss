@@ -12,6 +12,7 @@ html {
   box-sizing: border-box;
   min-height: 100vh;
   height: auto;
+  background-color:#111;
   &:after {
 	  content: '';
 	  position: fixed;
