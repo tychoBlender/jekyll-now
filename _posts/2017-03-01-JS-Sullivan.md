@@ -12,7 +12,7 @@ logo: '<svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="0 0 253.3 45
 
 ### Real Estate Development and Construction
 
-San Francisco Botique Developer and Construction firm focused on modern, mixed-use, urban infill projects. Modern WordPress Theme designed to be a portfolio of numerous past, present and future projects. 
+San Francisco Boutique Developer and Construction firm focused on modern, mixed-use, urban infill projects. Modern WordPress Theme designed to be a portfolio of numerous past, present and future projects. 
 
 * Lead WordPress Theme Developer
 
@@ -20,9 +20,18 @@ San Francisco Botique Developer and Construction firm focused on modern, mixed-u
 
 * Custom Map Illustration with Map Markers
 
-![JS-Sullivan-Website]({{ site.baseurl }}/images/JSS-Screenshot.jpg "JS Sullivan home page")
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/JSS-desktop-menuoverlay.min.png" alt="" title=""><img src="{{ site.url }}/images/JSS-desktop-website.min.png" alt="" title="">	
+</div>
 
-![JS-Sullivan-Menu-Overlay]({{ site.baseurl }}/images/JSS-MenuOverlay.jpg "JS Sullivan menu overlay")
+<a class="grad--jss" href="http://js-sullivan.com" target="_blank">visit website</a>
 
-<a href="http://js-sullivan.com" target="_blank">visit website</a>
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/JSS-mobile-property.min.png" alt="" title="">
+<div class="screensnap__caption"><p>hello world this is a quick brown fox jumping over a lazy dog.</p></div>
+</div>
+
+
+
+
 

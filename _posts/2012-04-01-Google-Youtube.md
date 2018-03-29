@@ -21,3 +21,9 @@ Beginning in 2016, to align with the increase in mobile viewership, YouTube Gadg
 * Seasonal Email Marketing to Brand Content
 
 * Create User Flows for  Audience Segment, Product or Audience Segment sorting functionality
+
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/GOO-desktop-yt.min.png" alt="" title="">
+<div class="screensnap__caption"><p>hello world this is a quick brown fox jumping over a lazy dog.</p></div>
+</div>
+

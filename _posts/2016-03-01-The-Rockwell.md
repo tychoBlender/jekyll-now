@@ -20,14 +20,14 @@ Two 13-story modern glass and concrete structures centered with a generous court
 
 * Remaining Residences Floor Plan Developer
 
-* Production Floor Plan Revisions
- 
-![Rockwell—Remaining-Floor-Plans]({{ site.baseurl }}/images/ROC-FloorPlans.png "The Rockwell - West and East Tower Floor Plans")
+* Production Designer Floor Plan Revisions
 
-![Rockwell-Floor-Plan-Production]({{ site.baseurl }}/images/ROC-SinglePlan.pdf "Specialized floor plans with cinematic views")
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/ROC-desktop-floorplans.min.png" alt="" title=""><img src="{{ site.url }}/images/ROC-desktop-remaining-residences.min.png" alt="" title="">	
+</div>
 
-<a href="http://therockwellsf.com/floor-plans/" target="_blank">view floor plans</a>
+<a class="grad--roc" href="http://therockwellsf.com/floor-plans/" target="_blank">floor plans</a>
 
 ### Press
 
-<a href="https://sf.curbed.com/2015/3/20/9978628/first-look-inside-rockwell-as-it-gets-ready-to-start-sales" target="_blank">curbedSF - first look</a>
+<a class="grad--roc" href="https://sf.curbed.com/2015/3/20/9978628/first-look-inside-rockwell-as-it-gets-ready-to-start-sales" target="_blank">curbedSF - first look</a>

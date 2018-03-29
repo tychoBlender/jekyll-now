@@ -17,7 +17,8 @@ At its heart, The Market is a place to discover new tastes, new shops, and new f
 
 * Mailchimp Content Manager
 
-![the-market-homepage]({{ site.baseurl }}/images/MAR-Home.jpg "The Market home page")
-![the-market-single-vendor]({{ site.baseurl }}/images/MAR-vendor-single.jpg "The Market - Single Vendor ")
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/MAR-desktop-home.min.png" alt="" title=""><img src="{{ site.url }}/images/MAR-mobile-eat.min.png" alt="" title="">	
+</div>
 
-<a href="http://www.visitthemarket.com/about-the-market/" target="_blank">visit website</a>
+<a class="grad--mar" href="http://www.visitthemarket.com/about-the-market/" target="_blank">visit website</a>

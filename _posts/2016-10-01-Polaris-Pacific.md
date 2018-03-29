@@ -52,29 +52,21 @@ Polaris Pacific real estate experiences are rolled out across major urban market
 
 * Led modernization of LAMP hosting environment 
 
-* Managed HubSpot Template Development / Content Management
+* Managed HubSpot Email Automation / Content Management
+
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/POL-desktop-menuoverlay.min.png" alt="" title=""><img src="{{ site.url }}/images/POL-mobile-property.min.png" alt="" title="">	
+</div>
+
+<a class="grad--pol" href="https://polarispacific.com/the-red-room/contributor/?id=592&jt=Vice%20President%20of%20Research" target="_blank">contributor page</a>
+
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/POL-mobile-video-min.png" alt="" title=""><img src="{{ site.url }}/images/POL-desktop-contributor.min.png" alt="" title="">	
+</div>
+
+<a class="grad--pol" href="https://polarispacific.com/red-room/bartender-challenge-dtla/" target="_blank">bartender challenge</a>
 
 
-![Polaris-Pacific-Menu-Articles]({{ site.baseurl }}/images/PP-MenuOverlay.png "Polaris Pacific Real Estate Sherpas")
 
 
-<a href="https://polarispacific.com" target="_blank">visit website</a>
-
-
-![Polaris-Pacific-The-Red-Room]({{ site.baseurl }}/images/PP-RedRoom.png "Witty Banter and Real Estate Observations")
-
-
-<a href="https://https://seetheredroom.com" target="_blank">see the red room</a>
-
-
-![Polaris-Pacific-Red-Room-Contributor-Page]({{ site.baseurl }}/images/PP-RedRoom-Contributor.png "Collection of all articles by a single author")
-
-
-<a href="https://polarispacific.com/the-red-room/contributor/?id=592&jt=Vice%20President%20of%20Research" target="_blank">red room contributor page</a>
-
-
-![Polaris-Pacific-Email-Sample]({{ site.baseurl }}/images/PP-EmailTemplate.jpg "Polaris Pacific Market Research Report")
-
-
-<a href="https://polarispacific.com/red-room/bartender-challenge-dtla/" target="_blank">watch a bartender challenge</a>
 

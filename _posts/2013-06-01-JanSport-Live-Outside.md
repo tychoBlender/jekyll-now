@@ -11,16 +11,18 @@ logo: '<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 317.6 7
 
 JanSport’s Social Media presence is lively and inclusive across many different platforms. For this campaign YouTube, Facebook and Tumblr were synchronized to drive viewers to the weekly vignettes and episodes following a artists traveling from San Francisco to their performacne in Austin’s SXSW festival. The Tumblr theme was picked up for localization for JanSport Brazil, the team involved with a a future Live Outside destination. Worked directly to produce assets and post content on first party brand channels and landing pages.
 
-* Custom Tumblr Theme
+* Custom Tumblr Theme Developer
 
-* Landing Page : Live Outside Campaign page within the JanSport Official Website
+* Landing Page Development : Live Outside Campaign page within the JanSport Official Website
 
 * YouTube Brand Channel Content Management
 
-* Production Designer : Video Encoding, Photo Editing, Content Creation
+* Production Designer : Video Encoding, Photo Editing, Content/GIF Creation
 
-![jansport-campaign-landing-page]({{ site.baseurl }}/images/JS-LiveOutsideLanding.jpg "JS-LiveOutsideTumblr.jpg")
+<div class="entry__screensnap entry__screensnap--half">
+<img src="{{ site.url }}/images/JAN-desktop-tumblr2.min.png" alt="" title=""><img src="{{ site.url }}/images/JAN-desktop-landing.min.png" alt="" title="">	
+</div>
 
-![jansport-tumblr-theme]({{ site.baseurl }}/images/JS-LiveOutsideTumblr.jpg "JanSport Tumblr 2013 theme")
+<a class="grad--jan" href="http://jansport.tumblr.com/archive/2013/7" target="_blank">Tumblr Archives</a>
 
 
