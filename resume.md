@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-<p class="intro">contact me: <a class="resume__link" uers=\"znvygb:pnfgvvvb@vpybhq.pbz\" ery=\"absbyybj\"><span class="resume__email"></span></a><br><br>
+<p class="intro">contact me: <a class="resume__link" rel="nofollow"><span class="resume__email"></span></a><br><br>
 DANNY CASTILLO brings 5+ years of HTML, CSS, JavaScript and PHP development knowledge designing, launching and maintaining websites. A Developer of UI/UX directly consulting with Design and Account teams in varying lifecycles. Past project have included work for commercial/residential Real Estate, Cord Blood Banking Children’s Hospital Oakland, Google, HP, JanSport, Sony and SF Travel among others. Collaborative and aware team member regularly entrusted to research and document technologies for demos, prototypes and presentations.
 </p>
 
