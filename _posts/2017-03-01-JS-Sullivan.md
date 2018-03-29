@@ -25,7 +25,7 @@ San Francisco Boutique Developer and Construction firm focused on modern, mixed-
 </div>
 
 <div class="entry__screensnap entry__screensnap--half">
-<img src="{{ site.url }}/images/JSS-mobile-property.min.png" alt="" title=""><div class="screensnap__caption"><a class="grad--jss" href="http://js-sullivan.com" target="_blank">visit website</a><p>hello world this is a quick brown fox jumping over a lazy dog.</p></div>
+<img src="{{ site.url }}/images/JSS-mobile-property.min.png" alt="" title=""><div class="screensnap__caption"><a class="grad--jss" href="http://js-sullivan.com" target="_blank">visit website</a></div>
 </div>
 
 
