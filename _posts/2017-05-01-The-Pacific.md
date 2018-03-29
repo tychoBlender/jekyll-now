@@ -22,7 +22,7 @@ Private Condominiums in San Francisco’s Pacific Heights District, all the layo
 <img src="{{ site.url }}/images/PAC-desktop-website.min.png" alt="" title=""><img src="{{ site.url }}/images/PAC-mobile-tour.min.png" alt="" title="">	
 </div>
 
-<a class="grad--pac" href="http://thepacificheights.com/pac-panos/grand-penthouse.html" target="_blank">virtual tour preview</a>
+<a class="grad--pac" href="http://thepacificheights.com/pac-panos/grand-penthouse.html" target="_blank">virtual tour</a>
 
 <div class="entry__screensnap entry__screensnap--half">
 <img src="{{ site.url }}/images/PAC-mobile-website.min.png" alt="" title=""><img src="{{ site.url }}/images/PAC-desktop-tour.min.png" alt="" title="">	
