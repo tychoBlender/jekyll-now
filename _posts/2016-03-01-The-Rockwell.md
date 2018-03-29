@@ -30,4 +30,4 @@ Two 13-story modern glass and concrete structures centered with a generous court
 
 ### Press
 
-<a class="grad--roc" href="https://sf.curbed.com/2015/3/20/9978628/first-look-inside-rockwell-as-it-gets-ready-to-start-sales" target="_blank">curbedSF - first look</a>
+# <a href="https://sf.curbed.com/2015/3/20/9978628/first-look-inside-rockwell-as-it-gets-ready-to-start-sales" target="_blank">curbedSF - first look</a>

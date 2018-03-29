@@ -55,7 +55,7 @@ Polaris Pacific real estate experiences are rolled out across major urban market
 * Managed HubSpot Email Automation / Content Management
 
 <div class="entry__screensnap entry__screensnap--half">
-<img src="{{ site.url }}/images/POL-desktop-menuoverlay.min.png" alt="" title=""><img src="{{ site.url }}/images/POL-mobile-property.min.png" alt="" title="">	
+<img src="{{ site.url }}/images/POL-desktop-menuoverlay.min.png" alt="" title="" /><img src="{{ site.url }}/images/POL-mobile-property.min.png" alt="" title="" />	
 </div>
 
 <a class="grad--pol" href="https://polarispacific.com/the-red-room/contributor/?id=592&jt=Vice%20President%20of%20Research" target="_blank">contributor page</a>
