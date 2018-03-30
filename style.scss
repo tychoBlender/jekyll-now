@@ -82,8 +82,14 @@ a {
   &:active {
     color: inherit;
   }
+  &.grad--{
+	  bcn{
+	    background: -webkit-linear-gradient(right bottom, #FFF42D, #FFF498);
+		background: linear-gradient(to left top, #FFF42D, #FFF498);
+		color: #111;		  
+	  }
+  }
 }
-
 a.grad--bcn {
   background: -webkit-linear-gradient(right bottom, #FFF42D, #FFF498);
   background: linear-gradient(to left top, #FFF42D, #FFF498);
