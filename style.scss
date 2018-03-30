@@ -75,6 +75,7 @@ p {
 
 a {
   color: inherit;
+  color: #111;
   cursor: pointer;
   &:hover {
     color: inherit;
@@ -83,7 +84,6 @@ a {
     color: inherit;
   }
   &.grad--{
-    color: #111;
     &bcn{
       background: -webkit-linear-gradient(right bottom, #FFF42D, #FFF498);
 	  background: linear-gradient(to left top, #FFF42D, #FFF498);	  		  
@@ -148,26 +148,26 @@ ul {
   margin: 15px 0;
   padding-left: 30px;
   list-style-type: disc;
-}
-ul ol {
-  margin: 0;
-}
-ul ul {
-  margin: 0;
-  list-style-type: circle;
+  ol {
+    margin: 0;
+  }
+  ul {
+    margin: 0;
+    list-style-type: circle;
+  }
 }
 
 ol {
   margin: 15px 0;
   padding-left: 30px;
   list-style-type: decimal;
-}
-ol ul {
-  margin: 0;
-  list-style-type: circle;
-}
-ol ol {
-  margin: 0;
+  ul {
+    margin: 0;
+    list-style-type: circle;
+  }
+  ol {
+   margin: 0;
+  }
 }
 
 em {
@@ -210,6 +210,7 @@ b {
   display: table;
   clear: both;
 }
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -219,41 +220,43 @@ b {
   height: auto;
 }
 
-.container--default #main.container {
-  margin-top: 5px;
-  padding-bottom: 6%;
-  background-color: #121212;
-}
-.container--default .wrapper-footer {
-  display: block;
-  margin: 2.5px 0 0 0;
-}
-.container--default h1 {
-  letter-spacing: -2px;
-  width: 100%;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  padding: 0 2.5%;
-  background-color: #121212;
-}
-.container--default .container__articleWrap {
-  max-width: 892.5px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-pack: start;
-  -ms-flex-pack: start;
-  justify-content: flex-start;
-  -ms-flex-line-pack: justify;
-  align-content: space-between;
-  width: 100%;
-  margin: auto;
+.container--default {
+  #main.container {
+    margin-top: 5px;
+    padding-bottom: 6%;
+    background-color: #121212;
+  }
+  .wrapper-footer {
+    display: block;
+    margin: 2.5px 0 0 0;
+  }
+  h1 {
+    letter-spacing: -2px;
+	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 0 2.5%;
+	background-color: #121212;
+  }
+  .container__articleWrap {
+    max-width: 892.5px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-box-pack: start;
+	-ms-flex-pack: start;
+	justify-content: flex-start;
+	-ms-flex-line-pack: justify;
+	align-content: space-between;
+	width: 100%;
+	margin: auto;
+  }
 }
 .container--default article .entry h3 {
   -webkit-box-flex: 0.333;
