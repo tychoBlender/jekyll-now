@@ -33,16 +33,16 @@ body {
   min-height: 100vh;
   height: auto;
 }
-
-h1 {
+h1, h2, h3, h4, h5{
   font-family: 'Josefin Sans', sans-serif;
   color: #fff;
   font-weight: normal;
   line-height: 1.7;
   margin: 0;
-  padding: 0;
-  font-size: 30px;
-  font-family: 'Josefin Sans', sans-serif;
+  padding: 0;	
+}
+
+h1 {
   font-weight: 300;
   font-size: 28px;
   &:after {
@@ -57,43 +57,16 @@ h1 {
 }
 
 h2 {
-  font-family: 'Josefin Sans', sans-serif;
-  color: #fff;
-  font-weight: normal;
-  line-height: 1.7;
-  margin: 0;
-  padding: 0;
   font-size: 24px;
 }
 
 h3 {
-  font-family: 'Josefin Sans', sans-serif;
-  color: #fff;
-  font-weight: normal;
-  line-height: 1.7;
-  margin: 0;
-  padding: 0;
   font-size: 20px;
 }
 
 h4 {
-  font-family: 'Josefin Sans', sans-serif;
-  color: #fff;
-  font-weight: normal;
-  line-height: 1.7;
-  margin: 0;
-  padding: 0;
   font-size: 18px;
   color: #ddd;
-}
-
-h5 {
-  font-family: 'Josefin Sans', sans-serif;
-  color: #fff;
-  font-weight: normal;
-  line-height: 1.7;
-  margin: 0;
-  padding: 0;
 }
 
 p {
@@ -103,13 +76,14 @@ p {
 a {
   color: inherit;
   cursor: pointer;
+  &:hover {
+    color: inherit;
+  }
+  &:active {
+    color: inherit;
+  }
 }
-a:hover {
-  color: inherit;
-}
-a:active {
-  color: inherit;
-}
+
 a.grad--bcn {
   background: -webkit-linear-gradient(right bottom, #FFF42D, #FFF498);
   background: linear-gradient(to left top, #FFF42D, #FFF498);
