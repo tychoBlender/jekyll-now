@@ -45,15 +45,15 @@ h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 300;
   font-size: 28px;
-}
-h1 a {
-  color: inherit;
-}
-h1:after {
-  content: '';
-  margin: 0 2.5%;
-  width: 100%;
-  border-bottom: 6px solid #fff;
+  &:after {
+    content: '';
+    margin: 0 2.5%;
+    width: 100%;
+    border-bottom: 6px solid #fff;
+  }
+  a {
+    color: inherit;
+  }  
 }
 
 h2 {
