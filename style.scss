@@ -258,6 +258,7 @@ b {
 	margin: auto;
   }
 }
+
 .container--default article .entry h3 {
   -webkit-box-flex: 0.333;
   -ms-flex: 0.333;
@@ -443,15 +444,6 @@ b {
 		display: inline-block;
 		vertical-align:  middle;
 	}	
-}
-
-.container--project .entry__branding {
-  padding-top: 18%;
-  background: url(images/google/logo-large.png), -webkit-linear-gradient(#7847b2, #7847b2);
-  background: url(images/google/logo-large.png), linear-gradient(#7847b2, #7847b2);
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-position: center center;
 }
 
 .wrapper-masthead {
@@ -982,14 +974,7 @@ footer a .svg {
     text-align: left;
   }
 }
-@media screen and (min-width: 900px) {
-  .whois--project .whois__top {
-//     height: 1.2%;
-  }
-  .whois--project .whois__btm {
-//     height: 1.2%;
-  }
-}
+
 @media screen and (min-width: 400px) {
   .name__third {
     width: 23%;
