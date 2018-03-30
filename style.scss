@@ -215,6 +215,69 @@ b {
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
+.name--spacer {
+  display: none;
+  visibility: hidden;
+}
+
+.name__third {
+  display: table-cell;
+  background-color: #fff;
+  text-align: center;
+  vertical-align:middle;
+  width: 12.333%;
+  color: #001F3F;
+  font-size: 14px;
+}
+
+.name__logomark {
+  display: table-cell;
+  background-image: url(images/hi_dc.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 20%;
+  padding-top: 4%;
+  img {
+    vertical-align: bottom;
+	min-width: 100%;
+	width: auto;
+  }
+  svg {
+    vertical-align: bottom;
+	min-width: 100%;
+	width: auto;
+  }
+  #knockout {
+    fill: #fff;
+  }
+}
+
+.logomark__inner {
+  fill: #fff;
+}
+
+.top--full {
+  width: 100%;
+}
+
+.btm--half a {
+  display: inline-block;
+  height: 100%;
+}
+
+.site-avatar {
+  width: 40px;
+  height: 40px;
+  img {
+    border-radius: 5px;
+  }
+}
+
+.site-info {
+  float: left;
+}
+
 #main.container {
   width: 100%;
   min-height: 100%;
@@ -396,7 +459,7 @@ b {
 		}
 	  }
 	}
-  }
+  }  
   .entry__screensnap--half{
     img{
 	  display: inline-block;
@@ -614,97 +677,31 @@ b {
   width: 100%;
   box-sizing: border-box;
   margin-bottom: 5px;
-}
-.whois--project .whois__top,
-.whois--project .whois__btm  {
-  background-color: #fff;
-  padding: 0;
-//   height: 16.5px;
-  color: transparent;
-}
-.whois--project .whois__name {
-  position: relative;
-  display: table;
-  width: 100%;
-}
-.whois--project .site-name {
-  color: #111;
-  font-weight: normal;
-  font-size: 0.9em;
-  color: transparent;
-}
-.whois--project .site-description {
-  color: #111;
-  font-weight: normal;
-  font-size: 0.9em;
-  color: transparent;
-}
-.whois--project nav {
-  width: 30%;
-}
+  .whois__top,
+  .whois__btm  {
+    background-color: #fff;
+	padding: 0;
+	color: transparent;
+  }
+  .whois__name {
+    position: relative;
+	display: table;
+	width: 100%;
+  }
+  .site-name,
+  .site-description {
+    color: #111;
+	font-weight: normal;
+	font-size: 0.9em;
+	color: transparent;
+  }
+  nav {
+    width: 30%;
+  }
+}  
 
-.name--spacer {
-  display: none;
-  visibility: hidden;
-}
 
-.name__third {
-  display: table-cell;
-  background-color: #fff;
-  text-align: center;
-  vertical-align:middle;
-  width: 12.333%;
-  color: #001F3F;
-  font-size: 14px;
-}
 
-.name__logomark {
-  display: table-cell;
-  background-image: url(images/hi_dc.svg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 20%;
-  padding-top: 4%;
-}
-.name__logomark img {
-  vertical-align: bottom;
-  min-width: 100%;
-  width: auto;
-}
-.name__logomark svg {
-  vertical-align: bottom;
-  min-width: 100%;
-  width: auto;
-}
-.name__logomark #knockout {
-  fill: #fff;
-}
-
-.logomark__inner {
-  fill: #fff;
-}
-
-.top--full {
-  width: 100%;
-}
-
-.btm--half a {
-  display: inline-block;
-  height: 100%;
-}
-
-.site-avatar {
-  width: 40px;
-  height: 40px;
-}
-.site-avatar img {
-  border-radius: 5px;
-}
-
-.site-info {
-  float: left;
-}
 
 .post__title {
   width: 100%;
@@ -921,35 +918,18 @@ article .entry img {
 footer {
   padding: 12px 0;
   text-align: center;
-}
-footer a {
-  display: inline-block;
-}
-footer a .svg {
-  vertical-align: bottom;
+  a {
+    display: inline-block;
+	.svg {
+	  vertical-align: bottom;
+	}
+  }
 }
 
 @media screen and (max-width: 640px) {
-  h1 {
+  h1,h2,h3,h4,h5 {
     line-height: 1.4;
   }
-
-  h2 {
-    line-height: 1.4;
-  }
-
-  h3 {
-    line-height: 1.4;
-  }
-
-  h4 {
-    line-height: 1.4;
-  }
-
-  h5 {
-    line-height: 1.4;
-  }
-
   .site-avatar {
     float: none;
     display: block;
@@ -1013,8 +993,6 @@ footer a .svg {
   .name__third {
     width: 12%;
   }
-
-  .name--spacer {}
 }
 @media screen and (min-width: 730px) {
   .post__logo {
