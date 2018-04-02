@@ -261,8 +261,7 @@ b {
   width: 100%;
 }
 
-.btm--half a {
-  color:#fff;
+.btm--half a {  
   display: inline-block;
   height: 100%;
 }
@@ -541,6 +540,7 @@ b {
 }
 
 .whois__name a {
+  color:#fff;
   text-decoration: none;
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 0.9em;
