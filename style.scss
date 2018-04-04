@@ -239,8 +239,12 @@ b {
   text-align: center;
   vertical-align:middle;
   width: 12.333%;
-  color: #001F3F;
+  color: #111;
   font-size: 14px;
+  a{
+  	color:#111;
+  	text-decoration:none;
+  }
 }
 
 .name__logomark {
