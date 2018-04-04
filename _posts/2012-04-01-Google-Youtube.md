@@ -22,7 +22,6 @@ YouTube Gadgets are now discontinued features on <a href="{{ site.url }}/images/
 * Create User Flows for  Audience Segment, Product or Audience Segment sorting functionality
 
 <div class="entry__screensnap entry__screensnap--half">
-<img src="{{ site.url }}/images/GOO-desktop-yt-sketchup.min.png" alt="" title="">
-<img src="{{ site.url }}/images/GOO-desktop-yt.min.png" alt="" title="">
+<img src="{{ site.url }}/images/GOO-desktop-yt-sketchup.min.png" alt="" title=""><img src="{{ site.url }}/images/GOO-desktop-yt.min.png" alt="" title="">
 </div>
 
