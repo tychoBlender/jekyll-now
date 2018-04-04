@@ -728,7 +728,6 @@ b {
 
 .post__byline {
   width: 100%;
-  max-width: 356px;
   margin: 0 2.5%;
   font-size: 0.85em;
   line-height: 1.2em;
@@ -744,7 +743,12 @@ b {
   -ms-flex-direction: row;
   flex-direction: row;
 }
-
+@media screen only and (min-width:640px){
+  .post__byline{
+  	max-width:356px;
+  	margin:auto;
+  } 	
+}
 .post__title a,
 .post__byline a {
   text-decoration: none;
