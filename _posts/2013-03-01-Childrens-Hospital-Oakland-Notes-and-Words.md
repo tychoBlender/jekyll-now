@@ -22,7 +22,7 @@ Having fun, doing good. Notes & Words is an annual benefit concert that brings w
 
 <div class="entry__screensnap entry__screensnap--half">
 <img src="{{ site.url }}/images/BCH-desktop-info.min.png" alt="" title="">
-<div class="screensnap__caption"><p>hello world this is a quick brown fox jumping over a lazy dog.</p></div>
+<div class="screensnap__caption"><a class="grad--cho" href="http://notesandwords.org" target="_blank">visit website</a></div>
 </div>
 
-<a class="grad--cho" href="http://notesandwords.org" target="_blank">visit website</a>
+
