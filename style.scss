@@ -695,10 +695,10 @@ b {
   box-sizing: border-box;
   margin-bottom: 5px;
   .whois__top,
-  .whois__btm  {
+  .whois__btm {
     background-color: #fff;
-	padding: 0;
-	color: transparent;
+    padding: 0;
+    color: transparent;
   }
   .whois__name {
     position: relative;
@@ -765,6 +765,7 @@ b {
   vertical-align: middle;
   background-size: cover;
 }
+
 .post__logo svg {
   position: relative;
   display: block;
@@ -1024,6 +1025,7 @@ footer {
   .container--project .entry__screensnap--half img {
     width: 50%;
   }
+
   .container--project .entry__screensnap--half p {
     display: inline-block;
     width: 50%;
@@ -1031,11 +1033,13 @@ footer {
     padding: 5%;
   }
 }
+
 @media screen and (min-width: 1024px) {
   .name__third {
     width: 12%;
   }
 }
+
 @media screen and (min-width: 730px) {
   .post__logo {
     padding: 0;
@@ -1058,11 +1062,13 @@ footer {
     margin: auto;
   }
 }
+
 @media screen and (max-width: 768px) {
   article {
     width: 100%;
   }
 }
+
 @media screen and (min-width: 1400px) {
   .container--default .container__articleWrap {
     max-width: 1366px;
