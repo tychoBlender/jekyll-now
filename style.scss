@@ -225,6 +225,9 @@ b {
   clear: both;
 }
 
+article{
+	box-sizing: border-box;
+}
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -371,18 +374,25 @@ b {
   }
 }
 
+/*****************
+ container--project
+ ******************/
+
 .container--project .wrapper-footer {
   margin: 5px 0 0 0;
 }
+
 .container--project #main.container {
   background-color: #101412;
   width: 100%;
   height: auto;
 }
+
 .container--project article {
   display: block;
   width: 100%;
 }
+
 .container--project article > h3 {
   font-weight: normal;
   font-size: 33px;
@@ -391,6 +401,7 @@ b {
   margin: 1.5em auto;
   text-align: center;
 }
+
 .container--project article .entry h3 {
   font-size: 24px;
   letter-spacing: -1.8px;
@@ -398,6 +409,7 @@ b {
   font-weight: normal;
   margin: 0.72em auto;
 }
+
 .container--project .entry {
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 0.9em;
@@ -415,11 +427,13 @@ b {
   display: block;
   height: 100%;
 }
+
 .container--project .entry h3 {
   max-width: 892.5px;
   width: 95%;
   margin: auto;
 }
+
 .container--project .entry p {
   max-width: 892.5px;
   width: 95%;
@@ -427,9 +441,11 @@ b {
   margin: 1.2em auto;
   line-height: 1.5em;
 }
+
 .container--project .entry p > img {
   max-width: 100%;
 }
+
 .container--project .entry ul {
   max-width: 892.5px;
   width: 95%;
@@ -441,20 +457,24 @@ b {
   margin: 0 auto;
   max-width: 600px;
 }
+
 .container--project .entry li {
   position: relative;
   max-width: 95%;
   margin: 0;
 }
+
 .container--project .entry li:before {
   content: '*';
   display: inline-block;
   position: absolute;
   top: 6px;
 }
+
 .container--project .entry li p {
   margin: 0 auto;
 }
+
 .container--project .entry a {
   position: relative;
   max-width: 200px;
@@ -464,6 +484,7 @@ b {
   text-decoration: none;
   text-align: center;
 }
+
 .container--project .entry > img {
   position: relative;
   display: block;
@@ -471,21 +492,22 @@ b {
   max-width: 1122px;
   margin: auto;
 }
+
 .container--project .entry .first {
   width: 75%;
   max-width: 600px;
   text-align: center;
 }
+
 .container--project .entry h3.first {
   letter-spacing: 0.1em;
 }
+
 .container--project .entry__screensnap--half img {
   display: inline-block;
   vertical-align: middle;
 }
-.container--project .entry__screensnap--half p {
-//   display: block;
-}
+
 .container--project .screensnap__caption{
 	display: inline-block;
     vertical-align:  middle;
@@ -727,7 +749,6 @@ b {
 }
 
 .post__byline {
-  width: 100%;
   margin: 0 2.5%;
   font-size: 0.85em;
   line-height: 1.2em;
@@ -802,6 +823,10 @@ b {
   font-size: 16px;
 }
 
+/**************
+ container-about
+ ***************/
+ 
 .container--about .page {
   position: relative;
   padding-top: 2.5%;
@@ -1040,7 +1065,7 @@ footer {
 }
 @media screen and (max-width: 768px) {
   article {
-    width: 100%;
+    width: 100%;    
   }
 }
 @media screen and (min-width: 1400px) {
