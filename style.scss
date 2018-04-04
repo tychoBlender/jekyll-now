@@ -133,7 +133,6 @@ a {
       background: -webkit-linear-gradient(right bottom, #3D9970, #2ECC40);
       background: linear-gradient(to left top, #3D9970, #2ECC40);
       color:#111;
-      max-width:330px;
     }
     &jan {
       background: -webkit-linear-gradient(right bottom, #242E4B, #C3D8ED);
@@ -480,12 +479,15 @@ article{
 
 .container--project .entry a {
   position: relative;
-  max-width: 200px;
+  max-width: 200px;  
   padding: 12px 0;
   margin: 0 auto;
   display: block;
   text-decoration: none;
   text-align: center;
+  &.grad--geo{
+    max-width: 300px; 
+  }
 }
 
 .container--project .entry > img {
@@ -630,6 +632,7 @@ article{
 	  	top: 45%;
 	  	left: 50%;
 	  	height: auto;
+	  	background-color:#fff;
 	  	-webkit-mask: url(images/type.svg) no-repeat center center/50% 45%;
 	  	z-index: 0;
 	  	-webkit-transform: translateX(-50%) translateY(-50%);
