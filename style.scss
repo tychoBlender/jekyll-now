@@ -242,7 +242,7 @@ b {
   color: #111;
   font-size: 14px;
   a{
-  	color:#111;
+  	color:#111 !important;
   	text-decoration:none;
   }
 }
@@ -382,7 +382,7 @@ b {
   }
   article {
     display: block;
-	width: 100%;
+    width: 100%;
     > h3 {
 	  font-weight: normal;
 	  font-size: 33px;
