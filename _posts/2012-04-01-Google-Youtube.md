@@ -11,7 +11,7 @@ logo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 27">
 
 ### Brand Channel YouTube Gadgets
 
-YouTube Gadgets are now discontinued features on <a href="{{ site.url }}/images/youtube-brand-channel-onesheeter-en.pdf" target="_blank">YouTube Brand Channels</a>. Small web applications, or rich media ads, were embedded  within a brand channel, highlighting content and custom functionality typically not part of Youtube.com. Gadget work created for GSUITE/Google Apps for Business, Google SketchUp, Snapfish and YouTube. Beginning in 2016, to align with the increase in mobile viewership, YouTube Gadgets were in a transition to a responsive site redesign. Other work includes features within Product Blog like Top Ads of the Year.
+YouTube Gadgets are now discontinued features on <a href="{{ site.url }}/images/youtube-brand-channel-onesheeter-en.pdf" target="_blank" style="display:inline-block">YouTube Brand Channels</a>. Small web applications, or rich media ads, were embedded  within a brand channel, highlighting content and custom functionality typically not part of Youtube.com. Gadget work created for GSUITE/Google Apps for Business, Google SketchUp, Snapfish and YouTube. Beginning in 2016, to align with the increase in mobile viewership, YouTube Gadgets were in a transition to a responsive site redesign. Other work includes features within Product Blog like Top Ads of the Year.
 
 * Google App Engine
 
