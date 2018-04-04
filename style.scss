@@ -242,11 +242,14 @@ article{
   text-align: center;
   vertical-align:middle;
   width: 12.333%;
-  color: #111;
-  font-size: 14px;
+  font-size: 14px;  
   a{
-  	color:#111 !important;
-  	text-decoration:none;
+    display:block;
+    color:#111;
+    text-decoration: none;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 0.9em;
+    line-height: 1.2em;
   }
 }
 
@@ -576,11 +579,14 @@ article{
 }
 
 .whois__name a {
-  color:#fff;
+/*
+  display:block;
+  color:#111;
   text-decoration: none;
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 0.9em;
   line-height: 1.2em;
+*/
 }
 
 .whois--home{
@@ -788,6 +794,9 @@ article{
   margin: auto;
   vertical-align: middle;
   background-size: cover;
+  a{
+	  display:block;
+  }
 }
 .post__logo svg {
   position: relative;
@@ -943,7 +952,6 @@ article .entry img {
   width: 100%;
   max-width: 1122px;
   margin: auto;
-  width: 100%;
   margin-top: 1.08em;
 }
 .container__detail img {
