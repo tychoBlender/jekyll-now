@@ -877,13 +877,8 @@ article{
 }
 .container--about article p.intro {
   margin: 1.5em auto 3em;
-  max-width: 750px;
+  max-width: 960px;
   column-count:1;
-}
-@media screen only and (min-width: 640px){
-  .container--about article p.intro {
-    column-count:2;
-  }
 }
 .container--about article h3 + p {
   margin: 0;
@@ -1082,6 +1077,12 @@ footer {
     width: 50%;
     margin: auto;
   }
+  
+  .container--about article p.intro {
+    column-count:2;
+  }
+
+
 }
 @media screen and (max-width: 768px) {
   article {
