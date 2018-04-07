@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5{
   margin: 0;
   padding: 0;	
 }
-
+ 
 h1 {
   font-weight: 300;
   font-size: 28px;
@@ -55,24 +55,24 @@ h1 {
     color: inherit;
   }  
 }
-
+ 
 h2 {
   font-size: 24px;
 }
-
+ 
 h3 {
   font-size: 20px;
 }
-
+ 
 h4 {
   font-size: 18px;
   color: #ddd;
 }
-
+ 
 p {
   margin: 15px 0;
 }
-
+ 
 a {
   color: inherit;
   color: #fff;
@@ -156,7 +156,7 @@ a {
     }
   }
 }
-
+ 
 ul {
   margin: 15px 0;
   padding-left: 30px;
@@ -169,7 +169,7 @@ ul {
     list-style-type: circle;
   }
 }
-
+ 
 ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -182,38 +182,38 @@ ol {
    margin: 0;
   }
 }
-
+ 
 em {
   font-style: italic;
 }
-
+ 
 i {
   font-style: italic;
 }
-
+ 
 strong {
   font-weight: bold;
 }
-
+ 
 b {
   font-weight: bold;
 }
-
+ 
 .date {
   font-style: italic;
   color: #ddd;
 }
-
+ 
 :-moz-selection {
   color: #111;
   background: #eee;
 }
-
+ 
 :selection {
   color: #111;
   background: #eee;
 }
-
+ 
 .clearfix:before {
   content: " ";
   display: table;
@@ -223,7 +223,7 @@ b {
   display: table;
   clear: both;
 }
-
+ 
 article{
 	box-sizing: border-box;
 }
@@ -234,7 +234,7 @@ article{
   display: none;
   visibility: hidden;
 }
-
+ 
 .name__third {
   display: table-cell;
   background-color: #fff;
@@ -251,7 +251,7 @@ article{
     line-height: 1.2em;
   }
 }
-
+ 
 .name__logomark {
   display: table-cell;
   background-image: url(images/hi_dc.svg);
@@ -274,20 +274,20 @@ article{
     fill: #fff;
   }
 }
-
+ 
 .logomark__inner {
   fill: #fff;
 }
-
+ 
 .top--full {
   width: 100%;
 }
-
+ 
 .btm--half a {  
   display: inline-block;
   height: 100%;
 }
-
+ 
 .site-avatar {
   width: 40px;
   height: 40px;
@@ -295,17 +295,17 @@ article{
     border-radius: 5px;
   }
 }
-
+ 
 .site-info {
   float: left;
 }
-
+ 
 #main.container {
   width: 100%;
   min-height: 100%;
   height: auto;
 }
-
+ 
 .container--default {
   #main.container {
     margin-top: 5px;
@@ -344,7 +344,7 @@ article{
 	margin: auto;
   }
 }
-
+ 
 .container--default article .entry {
   h3 {
     -webkit-box-flex: 0.333;
@@ -375,26 +375,26 @@ article{
 	max-width: 700px;	  
   }
 }
-
+ 
 /*****************
  container--project
  ******************/
-
+ 
 .container--project .wrapper-footer {
   margin: 5px 0 0 0;
 }
-
+ 
 .container--project #main.container {
   background-color: #101412;
   width: 100%;
   height: auto;
 }
-
+ 
 .container--project article {
   display: block;
   width: 100%;
 }
-
+ 
 .container--project article > h3 {
   font-weight: normal;
   font-size: 33px;
@@ -403,7 +403,7 @@ article{
   margin: 1.5em auto;
   text-align: center;
 }
-
+ 
 .container--project article .entry h3 {
   font-size: 24px;
   letter-spacing: -1.8px;
@@ -411,7 +411,7 @@ article{
   font-weight: normal;
   margin: 0.72em auto;
 }
-
+ 
 .container--project .entry {
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   font-size: 0.9em;
@@ -429,13 +429,13 @@ article{
   display: block;
   height: 100%;
 }
-
+ 
 .container--project .entry h3 {
   max-width: 892.5px;
   width: 95%;
   margin: auto;
 }
-
+ 
 .container--project .entry p {
   max-width: 892.5px;
   width: 95%;
@@ -443,11 +443,11 @@ article{
   margin: 1.2em auto;
   line-height: 1.5em;
 }
-
+ 
 .container--project .entry p > img {
   max-width: 100%;
 }
-
+ 
 .container--project .entry ul {
   max-width: 892.5px;
   width: 95%;
@@ -459,24 +459,24 @@ article{
   margin: 0 auto;
   max-width: 600px;
 }
-
+ 
 .container--project .entry li {
   position: relative;
   max-width: 95%;
   margin: 0;
 }
-
+ 
 .container--project .entry li:before {
   content: '*';
   display: inline-block;
   position: absolute;
   top: 6px;
 }
-
+ 
 .container--project .entry li p {
   margin: 0 auto;
 }
-
+ 
 .container--project .entry a {
   position: relative;
   max-width: 200px;  
@@ -489,7 +489,7 @@ article{
     max-width: 320px; 
   }
 }
-
+ 
 .container--project .entry > img {
   position: relative;
   display: block;
@@ -497,28 +497,28 @@ article{
   max-width: 1122px;
   margin: auto;
 }
-
+ 
 .container--project .entry .first {
   width: 75%;
   max-width: 600px;
   text-align: center;
 }
-
+ 
 .container--project .entry h3.first {
   letter-spacing: 0.1em;
 }
-
+ 
 .container--project .entry__screensnap--half img {
   display: inline-block;
   vertical-align: middle;
 }
-
+ 
 .container--project .screensnap__caption{
 	display: inline-block;
     vertical-align:  middle;
     width:100%;
 }
-
+ 
 .resume__pic{
   height:175px;
   width:100%;
@@ -529,7 +529,7 @@ article{
   background-size:cover;
   background-repeat:no-repeat; 
 }	
-
+ 
 .resume__email{
   &:before{
     content:'danny@'
@@ -538,7 +538,7 @@ article{
     content:'castiiio.com'
   }
 }
-
+ 
 @media screen and (min-width: 640px) {
   .container--project .screensnap__caption{
     margin:0;
@@ -548,18 +548,18 @@ article{
 	vertical-align:  middle;
   }	
 }
-
+ 
 .wrapper-masthead {
   padding: 0;
   background-color: transparent;
   max-height: 200px;
 }
-
+ 
 .wrapper-footer {
   margin: 5px 0 0 0;
   background-color: #fff;
 }
-
+ 
 .whois {
   position:relative;	
   display: block;
@@ -568,7 +568,7 @@ article{
   margin: 0;
   overflow: hidden;
 }
-
+ 
 .whois__top {
   display: block;
   width: 100%;
@@ -582,7 +582,7 @@ article{
 	  z-index:1;
   }
 }
-
+ 
 .whois__name a {
 /*
   display:block;
@@ -593,7 +593,7 @@ article{
   line-height: 1.2em;
 */
 }
-
+ 
 .whois--home{
   .whois__top {
     position: relative;
@@ -712,14 +712,14 @@ article{
 	}
   }
 }
-
+ 
 @media screen and (max-width: 640px) {
 	.top__video video {
 		top: 50%;		
 	}
 }
-
-
+ 
+ 
 .whois--project {
   background-color: transparent;
   width: 100%;
@@ -750,8 +750,8 @@ article{
     width: 30%;
   }
 }  
-
-
+ 
+ 
 .post__title {
   width: 100%;
   max-width: 356px;
@@ -759,7 +759,7 @@ article{
   margin: 0 6%;
   letter-spacing: 0;
 }
-
+ 
 .post__byline {
   margin: 0 2.5%;
   font-size: 0.85em;
@@ -787,11 +787,11 @@ article{
   text-decoration: none;
   color:#fff;
 }
-
+ 
 .post__title__link {
   text-decoration: none;
 }
-
+ 
 .post__logo {
   position: relative;
   width: 100%;
@@ -809,7 +809,7 @@ article{
   display: block;
   vertical-align: middle;
 }
-
+ 
 .post .entry a {
   text-decoration: none;
   border: solid 1px #fff;
@@ -831,13 +831,13 @@ article{
   font-size: 0.9em;
   line-height: 1.2em;
 }
-
+ 
 .site-description {
   margin: -5px 0 0 0;
   color: #111;
   font-size: 16px;
 }
-
+ 
 /**************
  container-about
  ***************/
@@ -877,7 +877,8 @@ article{
 }
 .container--about article p.intro {
   margin: 1.5em auto 3em;
-  max-width: 450px;
+  max-width: 750px;
+  column-count:2;
 }
 .container--about article h3 + p {
   margin: 0;
@@ -907,7 +908,7 @@ article{
   max-width: 768px;
   margin: auto;
 }
-
+ 
 article > h1 {
   text-align: left;
   text-transform: uppercase;
@@ -937,7 +938,7 @@ article .entry p {
 article .entry img {
   width: 100%;
 }
-
+ 
 .entry__screensnap {
   max-width: 892.5px;
   width: 95%;
@@ -951,7 +952,7 @@ article .entry img {
 .entry__screensnap img {
   width: 100%;
 }
-
+ 
 .container__detail {
   position: relative;
   display: block;
@@ -966,7 +967,7 @@ article .entry img {
 .container__detail .detail__caption {
   display: none;
 }
-
+ 
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid #eee;
@@ -975,7 +976,7 @@ article .entry img {
   padding-bottom: 1em;
   border-bottom: none;
 }
-
+ 
 footer {
   padding: 12px 0;
   text-align: center;
@@ -986,7 +987,7 @@ footer {
 	}
   }
 }
-
+ 
 @media screen and (max-width: 640px) {
   h1,h2,h3,h4,h5 {
     line-height: 1.4;
@@ -996,23 +997,23 @@ footer {
     display: block;
     margin: 0 auto;
   }
-
+ 
   .site-info {
     float: none;
     display: block;
     margin: 0 auto;
   }
-
+ 
   .site-description {
     margin: 3px 0;
   }
-
+ 
   .container--project .entry .first {
     width: 95%;
     text-align: left;
   }
 }
-
+ 
 @media screen and (min-width: 400px) {
   .name__third {
     width: 23%;
@@ -1024,7 +1025,7 @@ footer {
     padding-top: 5%;
   }
 }
-
+ 
 @media screen and (min-width: 768px) {
   .name__logomark{
 	width: 28%;  
@@ -1032,14 +1033,14 @@ footer {
   .name__third {
     width: 11.575%;
   }
-
+ 
   .name--spacer {
     width: 15%;
     background-color: #fff;
     display: table-cell;
     visibility: visible;
   }
-
+ 
   .container--project .entry__screensnap--half img {
     width: 50%;
   }
@@ -1071,7 +1072,7 @@ footer {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
   }
-
+ 
   .container--default article {
     width: 50%;
     margin: auto;
@@ -1090,7 +1091,7 @@ footer {
     width: 33.333%;
     margin: auto;
   }
-
+ 
   .post__logo {
     padding: 0;
     max-width: 125px;
@@ -1109,7 +1110,7 @@ footer {
   .container--project .entry__branding {
     padding-top: 14%;
   }
-
+ 
   .container__detail {
     margin-top: 0;
   }
