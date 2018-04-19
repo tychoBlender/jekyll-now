@@ -5,7 +5,10 @@ permalink: /resume/
 ---
 
 <p class="intro">contact me: <a class="resume__link" rel="nofollow"><span class="resume__email"></span></a><br><br>
-DANNY CASTILLO brings 5+ years of HTML, CSS, JavaScript and PHP development knowledge designing, launching and maintaining websites. A Developer of UI/UX directly consulting with Design and Account teams in varying lifecycles. Past project have included work for commercial/residential Real Estate, Cord Blood Banking Children’s Hospital Oakland, Google, HP, JanSport, Sony and SF Travel among others. Collaborative and aware team member regularly entrusted to research and document technologies for demos, prototypes and presentations.
+Hi my name is DANNY CASTILLO. I am a web developer. I handwrite, refactor and remix HTML markup, CSS style and JS/PHP components. Day to day it’s unlikely writing these take up 100% of my time so there’s all the other good stuff: UX/UI studies based on Analytic/Click Tracking/Heat Maps readings, SEO optimization, source code documentation, client facing CMS tutorials, server administration and the ongoing recon of emerging trends in open standards.<br><br>
+Working directly with Designers is common in the places I’ve worked at. Naturally the shared desk space fosters assistive production design duties and keeps an agile, continuous workflow to our shared deadlines. Besides production in out assets/linework its been fruitful to tinker on Code Snippets as prototypes to their design ambitions. <br><br>
+Front end development has not been exclusively programming nor fully design, but together the expertise I’ve committed to contribute absolutely develops websites. <br><br>
+Your needs may have an completely different baseline at the moment. When the thought of ‘There has to be a better way!’ crosses your mind, please feel free to reach out and look to Front End web developers to contribute a fresh set of eyes and ears.
 </p>
 
 <div class="resume__pic"></div>
