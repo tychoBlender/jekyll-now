@@ -10,7 +10,9 @@ html {
   padding: 5px;
   width: 100%;
   box-sizing: border-box;
+  display: flex;
   min-height: 100vh;
+  flex-direction: column;
   height: auto;
   background-color:#ddd;
   &:after {
@@ -32,6 +34,8 @@ body {
   color: #fff;
   min-height: 100vh;
   height: auto;
+  display: flex;
+  flex: 1;
 }
 h1, h2, h3, h4, h5{
   font-family: 'Josefin Sans', sans-serif;
@@ -304,6 +308,7 @@ article{
   width: 100%;
   min-height: 100%;
   height: auto;
+  flex:1;
 }
 
 .container--default {
