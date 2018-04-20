@@ -612,7 +612,20 @@ article{
       display:none;
 	  visibility:hidden;
 	}
+	
 	.top__screen {
+	  background: url(images/space-flattened.min.png);
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  background-position: center bottom;
+	  height: 90%;
+	  position: relative;
+	  z-index: 0;
+	  top: 0;
+	  left: 0;	  
+	}	
+	
+	.cssmask .top__screen {
 	  background: -webkit-linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)), url(images/space.jpg);
 	  background: linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)), url(images/space.jpg);
 	  background-repeat: no-repeat;
@@ -620,10 +633,8 @@ article{
 	  background-position: right center;
 	  height: 100%;
 	  position: relative;
-	  z-index: 0;
-	  top: 0;
-	  left: 0;
-	}	
+	 
+	}
 	.top__video {
 	  position: relative;
 	  height: 100%;
@@ -636,6 +647,12 @@ article{
 		height: auto;
 	  }
 	  video {
+        display:none;
+        visibility: hidden;
+	  }
+	  .cssmask video {
+        display:block;
+        visibility: visible;
 	  	position: absolute;
 	  	z-index: 0;
 	  	top: 45%;
