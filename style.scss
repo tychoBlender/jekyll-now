@@ -613,7 +613,7 @@ article{
 	  visibility:hidden;
 	}
 	
-	.top__screen {
+	.no-cssmask .top__screen {
 	  background: url(images/space-flattened.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
@@ -625,7 +625,7 @@ article{
 	  left: 0;	  
 	}	
 	
-	.cssmask .top__screen {
+	.top__screen {
 	  background: -webkit-linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)), url(images/space.jpg);
 	  background: linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)), url(images/space.jpg);
 	  background-repeat: no-repeat;
