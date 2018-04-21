@@ -611,8 +611,17 @@ article{
 	.site-description{
       display:none;
 	  visibility:hidden;
+	}			
+	.top__screen {
+	  background: -webkit-linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)), url(images/space.jpg);
+	  background: linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)), url(images/space.jpg);
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  background-position: right center;
+	  height: 100%;
+	  position: relative;
+	 
 	}
-	
 	.no-cssmask .top__screen {
 	  background: url(images/space-flattened.png);
 	  background-repeat: no-repeat;
@@ -624,17 +633,6 @@ article{
 	  top: 0;
 	  left: 0;	  
 	}	
-	
-	.top__screen {
-	  background: -webkit-linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)), url(images/space.jpg);
-	  background: linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)), url(images/space.jpg);
-	  background-repeat: no-repeat;
-	  background-size: cover;
-	  background-position: right center;
-	  height: 100%;
-	  position: relative;
-	 
-	}
 	.top__video {
 	  position: relative;
 	  height: 100%;
@@ -645,12 +643,8 @@ article{
 		top: 50%;
 		left: 50%;
 		height: auto;
-	  }
+	  }	  
 	  video {
-        display:none;
-        visibility: hidden;
-	  }
-	  .cssmask video {
         display:block;
         visibility: visible;
 	  	position: absolute;
@@ -664,6 +658,10 @@ article{
 	  	-webkit-transform: translateX(-50%) translateY(-50%);
 	  	transform: translateX(-50%) translateY(-50%);
 	  	background-size: cover;
+	  }
+	  .no-cssmask video {
+        display:none;
+        visibility: hidden;
 	  }
 	  img {
 		position: absolute;
