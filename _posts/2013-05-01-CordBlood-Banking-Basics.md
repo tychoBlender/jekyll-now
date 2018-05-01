@@ -9,13 +9,21 @@ logo: '<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 173.3 8
 
 ### Discover the power of stem cells
 
-As an industry leader, Cord Blood Registry® (CBR®) maintains educational landing pages to ensure prospective patients are aware of the options and benefits for storing newborn’s stem cells. The CBR Advantage page was regularly marketed externally in various retailers, health care providers and via direct mailing.
+As an industry leader, Cord Blood Registry® (CBR®) maintains educational landing pages to ensure prospective patients are aware of the options and benefits for storing newborn’s stem cells. The CBR Advantage page was regularly marketed externally in various retailers, health care providers and via direct mailing. By partnering with the marketing team, new content was created to increase awareness of core CBR products and services.
 
-* Landing Page Developer
+* Landing Page Developer / Product Marketer
 
-* ASP.NET Collaboration
+* Increased engagement of Customer Registrations researching session insights and product positioning
+
+* Microsoft TFS / .net / Sitecore collaboration with internal enginerring team
 
 * Omniture Tracking
+
+* Ensured and aligned outbound communications (email/social) to strategy and brand standards
+
+* Drove active registrations in Desktop/Mobile Audiene Categories
+
+* Increased customer accessibility of flagship products
 
 <div class="entry__screensnap entry__screensnap--half">
 <img src="{{ site.url }}/images/CBR-desktop-cbb.min.png" alt="" title=""><div class="screensnap__caption"><a class="grad--cbr" href="https://www.cordblood.com/cord-banking-basics" target="_blank">view website</a></div>
