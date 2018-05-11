@@ -56,7 +56,7 @@ Your needs may have an completely different baseline at the moment. When the tho
 </ul>
 
 
-<h4 id="freelance--feb-2014---sep-2014">TEAK <em>Freelance Front End Developer, Feb 2014 - Sep 2014</em></h4>
+<h4 id="freelance--feb-2014---sep-2014">Freelance <em>Front End Developer, Feb 2014 - Sep 2014</em></h4>
 
 <p>Consulting/Training and continued personal education in technical studies/applications of Open Technologies.</p>
 
