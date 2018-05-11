@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
+<div class="resume__pic"></div>
+
 <p class="intro">contact me: <a class="resume__link" rel="nofollow"><span class="resume__email"></span></a><br><br>
 Hi my name is DANNY CASTILLO. I am a web developer. I handwrite, refactor and remix HTML markup, CSS style and JS/PHP components. Day to day it’s unlikely writing these take up 100% of my time so there’s all the other good stuff: UX/UI studies based on Analytic/Click Tracking/Heat Maps readings, SEO optimization, source code documentation, client facing CMS tutorials, server administration and the ongoing recon of emerging trends in open standards.<br><br>
 Working directly with Designers is common in the places I’ve worked at. Naturally the shared desk space fosters assistive production design duties and keeps an agile, continuous workflow to our shared deadlines. Besides production in out assets/linework its been fruitful to tinker on Code Snippets as prototypes to their design ambitions. <br><br>
@@ -11,35 +13,45 @@ Front end development has not been exclusively programming nor fully design, but
 Your needs may have an completely different baseline at the moment. When the thought of ‘There has to be a better way!’ crosses your mind, please feel free to reach out and look to Front End web developers to contribute a fresh set of eyes and ears.
 </p>
 
-<div class="resume__pic"></div>
+<div class="resume__pic--mood one"></div>
+<div class="resume__pic--mood two"></div>
 
 <h2 id="experience">Experience</h2>
 
 <h4 id="allis--aug-2014---mar-2018">Allis <em>Front End Developer Aug 2014 - Mar 2018</em></h4>
 
-<p>Luxury Real Estate and Hospitality Branding Studio in San Francisco.</p>
+<p>Boutique Residential and Mixed-Use Real Estate Branding Studio in San Francisco.</p>
 
 <ul>
   <li>
-    <p>Work with developers, designers, and project leaders to ensure code quality and design fidelity.</p>
+    <p>Created website experience/architecture</p>
   </li>
   <li>
     <p>Oversee monthly maintenance/quality of active WordPress sites</p>
   </li>
   <li>
-    <p>Author/Contribute to custom WordPress themes</p>
+    <p>Examined, Designed + Authored Custom WordPress Themes</p>
   </li>
   <li>
     <p>DevOps lite: Documentation + Server Admin / Github + BitBucket SVN</p>
   </li>
   <li>
+	  <p>Influenced Site Animation & Mobile UX</p>
+  </li>
+  <li>
     <p>Production Design Assistant</p>
   </li>
   <li>
-    <p>Email Marketing Management : Mailchimp/Hubspot</p>
+    <p>Prepared/Resolved/Managed HTML email templates (Mailchimp/Hubspot)</p>
   </li>
   <li>
-    <p>IT Management</p>
+    <p>Improved and Implemented IT Management</p>
+  </li>
+  <li>
+    <p>Curated Build Process (SASS/GULP)</p>
+  </li>
+    <li>
+    <p>Improved Project Management (Basecamp3/Agile/GSUITE)</p>
   </li>
 </ul>
 
@@ -49,22 +61,22 @@ Your needs may have an completely different baseline at the moment. When the tho
 
 <ul>
   <li>
-    <p>Work with directors, editors, vfx/animators and project leaders to integrate their work on the web.</p>
+    <p>Reconciled Flash project source into HTML5</p>
   </li>
   <li>
-    <p>Author/ Contribute to custom WordPress themes</p>
+    <p>Researched/Adapted project features across browsers</p>
   </li>
   <li>
-    <p>DevOps lite: Linode / Beanstalk + Github SVN</p>
+    <p>Implemented APIs via JS/PHP in WordPress Themes</p>
   </li>
   <li>
     <p>Production Design Assistant : Brand Channel Content Manager</p>
   </li>
   <li>
-    <p>Google Analytics/Tag Manager/DoubleClick</p>
+    <p>Integrated interactivity into New Business pitches</p>
   </li>
   <li>
-    <p>AS3 Banner Ads / Presentation Prototypes</p>
+    <p>Informed/Conducted User Centered Design Research</p>
   </li>
 </ul>
 
@@ -74,13 +86,16 @@ Your needs may have an completely different baseline at the moment. When the tho
 
 <ul>
   <li>
-    <p>Conduct over 6,000 hours of personal/group training on first party hardware and software</p>
+    <p>Conducted 6000+ hrs of User Interface and User Experience Sessions</p>
   </li>
   <li>
-    <p>Point of Contact for testing Joint Venture subscription service within San Francisco market</p>
+    <p>Moderated small-medium group UX workshops</p>
   </li>
   <li>
-    <p>Internal Train the Trainer Workshop Leader</p>
+	<p>Certified Professional Audio/Video Software Specialist</p>
+  </li>
+  <li>
+    <p>Administered Bay Area Product Launch of Joint Venture</p>
   </li>
 </ul>
 
@@ -100,4 +115,4 @@ Your needs may have an completely different baseline at the moment. When the tho
 
 <h4 id="academy-of-art-university--fall-2008---spring-2013">Academy of Art University, San Francisco <em>Fall 2008 - Spring 2013</em></h4>
 
-<p>BFA Web Design New Media. Experiential design and Digital media. Integrated fundamentals of design thinking, visual communication, technology, and user experience. </p>
+<p>BFA Web Design New Media. Experiential design and Digital media. Integrated fundamentals of design thinking, visual communication, technology, and user experience.</p>

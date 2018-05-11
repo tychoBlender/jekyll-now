@@ -525,16 +525,30 @@ article{
     width:100%;
 }
  
-.resume__pic{
-  height:175px;
+.resume__pic,
+.resume__pic--mood{
   width:100%;
   margin:auto auto 3em;
   background-color:#111;
-  background-image: url('images/resume-dc.min.jpg');
   background-position: center 45%;
   background-size:cover;
   background-repeat:no-repeat; 
 }	
+.resume__pic{
+  height:175px;
+  background-image: url('images/resume-dc.min.jpg');
+}
+
+.resume__pic--mood{
+	height:425px;
+}
+.resume__pic--mood.one{	
+  background-image: url('images/resume-moodOne.min.jpg');
+}	
+.resume__pic--mood.two{
+  background-image: url('images/resume-moodTwo.min.jpg');
+}	
+
  
 .resume__email{
   &:before{
