@@ -55,6 +55,26 @@ Your needs may have an completely different baseline at the moment. When the tho
   </li>
 </ul>
 
+
+<h4 id="freelance--feb-2014---sep-2014">TEAK <em>Freelance Front End Developer, Feb 2014 - Sep 2014</em></h4>
+
+<p>Consulting/Training and continued personal education in technical studies/applications of Open Technologies.</p>
+
+<ul>
+  <li>
+    <p>Front End Build Tools (SASS/GRUNT/GULP)</p>
+  </li>
+  <li>
+    <p>CSS/SVG Animation</p>
+  </li>
+  <li>
+    <p>Rapid Responsive Prototyping</p>
+  </li>
+  <li>
+    <p>LAMP Server Administration</p>
+  </li>
+</ul>  
+
 <h4 id="teak--sept-2011---feb-2014">TEAK <em>Jr. Developer Sept 2011 - Feb 2014</em></h4>
 
 <p>Full Service Branded Content Agency in San Francisco.</p>
