@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dannycastillo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://castiiio.com
+  * I am dannycastillo (https://keybase.io/dannycastillo) on keybase.
+  * I have a public key ASDyzXu-fcnuhRGsN5O10eXDEHiJahkq4B6_CebTnYMjwgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bfb9bc557578b65fe3428d0b1056a8164ccd83c108960fb347fd46640ba549a20a",
+      "host": "keybase.io",
+      "kid": "0120f2cd7bbe7dc9ee8511ac3793b5d1e5c31078896a192ae01ebf09e6d39d8323c20a",
+      "uid": "03f17e3a61d4d65c461c304f644d1619",
+      "username": "dannycastillo"
+    },
+    "merkle_root": {
+      "ctime": 1572198707,
+      "hash": "925ce70f747c8eb2592ae7c570b5070be2f4fc1f39fabb628655bb2640b5cf5d0d15ec4553e48b30c026b443e55ca6e0c5fbbfa995540b4fe1667335414ace1f",
+      "hash_meta": "32c439f518b9b009f2b7ab3e066f0d7546c68d793e19c7eab3470f9f3906c747",
+      "seqno": 8443648
+    },
+    "service": {
+      "entropy": "3140Mexrym6l5sZJuJIlayna",
+      "hostname": "castiiio.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.0"
+  },
+  "ctime": 1572198712,
+  "expire_in": 504576000,
+  "prev": "735e3a5d9e4e80a760e1dd85172897c2901c48cdf4299bb631ebb00a9a2c5306",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8s17vn3J7oURrDeTtdHlwxB4iWoZKuAevwnm052DI8IKp3BheWxvYWTESpcCDsQgc146XZ5OgKdg4d2FFyiXwpAcSM30KZu2MeuwCposUwbEIN6seRmhlEq5Ihiv4KvlNXxFenaRq07O6JJa/rYDS1jYAgHCo3NpZ8RAt3NFGi3HwtQWUUQ7Q3WE5kLtjnS25hcJOvU+VwW/GhbRpSSMPVGbGo6N2DP8nuDeVHZo61zAVQAcDGDJrj+nD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHXlGmgxT32P0DFVA5382yYvjUFphUy+ihqY4di6dDv5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dannycastillo
+
+==================================================================
