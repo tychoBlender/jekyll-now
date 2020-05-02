@@ -18,6 +18,31 @@ Your needs may have an completely different baseline at the moment. When the tho
 
 <h2 id="experience">Experience</h2>
 
+<h4 id="alliedfeather--april-2018---current">ALLIED Feather + Down <em>Web Designer April 2018 - Current</em></h4>
+<p>The premier supplier of high quality down insulation to the most demanding technical and luxury brands worldwide.<p>
+
+<ul>
+  <li>
+    <p>Created corporate website experience/architecture and family of inhouse outdoor, home and hospitality companies</p>
+  </li>
+  <li>
+    <p>ReLaunched an enhanced TrackMyDown.com a robust traceability tool as a new website experience, embeddable card snippet and custom Point of Sale Hardware, OPTIX iMirror powered by Nobal</p>
+  </li>
+  <li>
+    <p>Awarded Outdoor Retailer's INNOVATION AWARD 2020 for OPTIX iMirror powered by Nobal and launched in JPN Retailers</p>
+  </li>
+  <li>
+    <p>Editorial Photoshoots for intothecold.online that ALLIED’s annual Art + Wilderness publication ‘INTO THE COLD’ is carving out new and original territory in the outdoor space. 
+</p>
+  </li>
+  <li>
+    <p>Launch DownWash Retail Detergent based on industrial wash processing</p>
+  </li>
+  <li>
+    <p>TradeShow Design: Outdoor Retailer Denver ISPO MUNICH Booth</p>
+  </li>
+</ul>
+
 <h4 id="allis--aug-2014---mar-2018">Allis <em>Front End Developer Aug 2014 - Mar 2018</em></h4>
 
 <p>Boutique Residential and Mixed-Use Real Estate Branding Studio in San Francisco.</p>
